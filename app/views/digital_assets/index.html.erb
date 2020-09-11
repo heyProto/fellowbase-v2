@@ -1,0 +1,35 @@
+<div class="ui sixteen grid">
+  <div class="sixteen wide column fellow-column-without-bottom-padding">
+    <%= render partial: 'projects/projects' %>
+  </div>
+  <div class="sixteen wide column fellow-column-without-top-padding">
+    <div style="overflow:auto;">
+      <table class="ui celled selectable table">
+        <thead>
+          <tr>
+            <th></th>
+            <th></th>
+            <th class="single line">Asset</th>
+            <th class="single line">Headline</th>
+            <th class="single line">Publication</th>
+            <th class="single line">Publish Date</th>
+            <th class="single line">Post Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% @digital_assets.each do |a| %>
+          <tr>
+            <td><%= link_to '<i class="trash icon"></i>'.html_safe, a, method: :delete, data: {confirm: "Are you sure?"}%></td>
+            <td><%= link_to '<i class="edit icon"></i>'.html_safe, edit_digital_asset_path(a) %></td>
+            <td><%= link_to a.asset, a.asset, target: :_blank %></td>
+            <td><%= a.headline %></td>
+            <td><%= a.publication %></td>
+            <td><%= a.publish_date %></td>
+            <td><%= a.post_type %><%# best_in_place a, :post_type, as: :select, collection: (DigitalAsset::POST_TYPE_CONSTANTS. map{ |a| [a, a] }).insert(0, ["", "None"]) %></td>
+          </tr>
+          <% end %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

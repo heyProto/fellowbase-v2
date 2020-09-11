@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Fellow Base</title>
+      <%= csrf_meta_tags %>
+
+      <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+      <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+      <!-- For use with Semantic ui datepicker -->
+      <link href="https://cdn.rawgit.com/mdehoog/Semantic-UI/6e6d051d47b598ebab05857545f242caf2b4b48c/dist/semantic.min.css" rel="stylesheet" type="text/css" />
+      <script src="https://cdn.rawgit.com/mdehoog/Semantic-UI/6e6d051d47b598ebab05857545f242caf2b4b48c/dist/semantic.min.js"></script>
+    </head>
+
+    <body>
+      <% if (controller_name == "events" and action_name == "index") or (controller_name == "digital_assets" and action_name == "index") or (controller_name == "projects" and action_name == "index") %>
+        <button class="circular ui icon huge button" id="fixedButton">
+          <%=  link_to '<i class="inverted plus icon"></i>'.html_safe, public_send("new_#{controller_name[0..-2]}_path") %>
+        </button>
+      <% elsif (controller_name == "users" and action_name == "index") or (controller_name == "fellows" and action_name == "index") or (controller_name == "ref_impacts" and action_name == "index") or (controller_name == "ref_partners" and action_name == "index") or (controller_name == "ref_targets" and action_name == "index") %>
+        <button class="circular ui icon huge button" id="fixedButton">
+          <%=  link_to '<i class="inverted plus icon"></i>'.html_safe, public_send("new_admin_#{controller_name[0..-2]}_path") %>
+        </button>
+
+      <% end %>
+
+      <%= render partial: "layouts/header" %>
+        <%= yield %>
+
+        <!-- For use with notiy -->
+        <% config = {} %>
+        <% if notice.present? %>
+            <% config = {text: notice, notify: "success"} %>
+        <% end %>
+        <% if alert.present? %>
+            <% config = {text: alert, notify: "error"} %>
+        <% end %>
+
+        <script type="text/javascript">
+         var notice = <%= config.to_json.html_safe %>;
+         if (notice.notify) generate_notify(notice);
+        </script>
+
+    </body>
+</html>

@@ -1,0 +1,675 @@
+[
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Border security workshops",
+      "*events_(events.projects)": [
+        "rec8noZ98iXSUpint",
+        "recO3ioi58iHdhHMG",
+        "recW2rtApNAnTL6hy",
+        "recOgAfkjQJ5MVXOi",
+        "recpQ33Ob2xC832E6",
+        "recWTHSP7iTmBcUnk"
+      ],
+      "fellows": [
+        "rechAENTlCRRxKOr6"
+      ],
+      "id": "rec16lvJuu6yEMmJJ"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Partners (ref_partners)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Hacks/Hackers - India",
+      "partners_(ref_partners)": [
+        "reckIO70GuSoU71Ub"
+      ],
+      "id": "rec1vuNtL380E0Yr9"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Express Tribune CMS",
+      "*events_(events.projects)": [
+        "rec09o3CQnbI306dn"
+      ],
+      "partners_(ref_partners)": [
+        "recjV5PxcaYHF0spL"
+      ],
+      "fellows": [
+        "recvhSrDjLfgUKk92"
+      ],
+      "id": "rec61MCNkuke7k8ue"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Salama",
+      "*events_(events.projects)": [
+        "recpG2JrQ7Z9DcUVu",
+        "recbl08hQBTn6d1r8"
+      ],
+      "fellows": [
+        "rechAENTlCRRxKOr6"
+      ],
+      "id": "rec689g3JW2lgQ5U2"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Kazakhstan TV stories",
+      "partners_(ref_partners)": [
+        "recHfCIcgtXEIv7Hl"
+      ],
+      "fellows": [
+        "recM9irm7vv0YSbU9"
+      ],
+      "id": "rec7jjnzo4F8e5sOJ"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Facebook Live in Pakistan",
+      "*events_(events.projects)": [
+        "recx1wB0JlDgj1BZh",
+        "recgJPJsL8DQPXzzY",
+        "recqNzFX5xWW5JFTs",
+        "rec63siZimrkU5GUG",
+        "recMD1tw9EAH7Xm77",
+        "recCWLoZlDsVD7CyN"
+      ],
+      "partners_(ref_partners)": [
+        "recb1lXaItWW40MlH",
+        "recjV5PxcaYHF0spL",
+        "recTS8KxBfYNYDNxv"
+      ],
+      "fellows": [
+        "recvhSrDjLfgUKk92"
+      ],
+      "id": "rec8QzH7sKgnvJd17"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Training for Latin American Digital Entrepreneurs",
+      "*events_(events.projects)": [
+        "recXZyy9FRmzV52nV",
+        "recIMaHMQdlC10Hx8",
+        "reco9i8zJzbrY1lRy",
+        "recNvPjj1rAyf73J3",
+        "recPPD51GXUzuKV2Z",
+        "recgzPFJOJuult8pJ",
+        "reczOZ326HsbI4dBy",
+        "rec1tSyCeZzrpoBJD",
+        "rec1UHD6DSxicSLYY",
+        "recA0uWYewx6xbbOW",
+        "recFsuG4uhgYPeng2",
+        "recK84gRadcjl1nVD",
+        "recy4LKOHNhgdUW3m",
+        "rec4kwQxrWjlmTP28",
+        "reci9ZLbovZ29wvJg",
+        "reckhrIrGt1XooYb6",
+        "recZ37Lf8IMpuHoGX",
+        "recpdY9SLNCwXmXHD",
+        "recjsHWsZ0WR1HtUT",
+        "recNB4GEg3hF1z3B4",
+        "rec0MjaBA8iNbMWcn",
+        "recpWdQjr3UiAI8By",
+        "recPpBY7CuxgG4Gnn",
+        "rectbv32SnrwwwQeF",
+        "rec303PxcNP0gqymc",
+        "recvklVTeUiYx1W5Q"
+      ],
+      "id": "rec9e5B3Fh26q1raL"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "id"
+    ],
+    "attrs": {
+      "name": "SembraMedia Network",
+      "*events_(events.projects)": [
+        "recPX4mB1fCz70ObI",
+        "recWEWHIF7FMdGSrY",
+        "recWiEP4vzkwFPdIo",
+        "rec7W9MsT4A0w33af",
+        "recMBjQrdzYiWGH4Y",
+        "recdt6XA15e6CHHIh"
+      ],
+      "id": "recCN50TEGp1Budk2"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Investigation into business models in 5 key Latin American countries with support from Omidyar",
+      "*events_(events.projects)": [
+        "recnWlW3dDT395cBm",
+        "reclfOiEVIxncTY0R"
+      ],
+      "id": "recFn5SYTzZIw6aLi"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "Other",
+      "id": "recH7n7roFaDM707n"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "id"
+    ],
+    "attrs": {
+      "name": "U.S. conferences",
+      "*events_(events.projects)": [
+        "recNRKPwa6mc4v4DS",
+        "recVahlXNldYH5cHE",
+        "recwvRfwBRUYa62Xg",
+        "recg8HTZcfibXbM2Y",
+        "rec980qnr35YOjMTh",
+        "recxxv39kLm4NnZkE"
+      ],
+      "id": "recHcTartuRqSBn0U"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Push",
+      "*events_(events.projects)": [
+        "recHPYR9vig6PVwRi",
+        "rec2cAGfhxPTpPzxN",
+        "rece7eFieTn2ejt7e",
+        "recGGAXLU2mBRo4JY",
+        "rec176SvnGM5frmqu",
+        "recS7EzIC6Iy9ufKI"
+      ],
+      "partners_(ref_partners)": [
+        "rec0XuA0wQwQJOxhW"
+      ],
+      "fellows": [
+        "recvsHQ2o8YC7oL0Z"
+      ],
+      "id": "recHzNTSvOEKAsLjM"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Hindustan Times Labs Team",
+      "*events_(events.projects)": [
+        "recdDOAV2QRuhpX2G",
+        "recmVmZnQOgMOFfkP",
+        "rec7UeCDLr9NjXXw4",
+        "recF568jOrYvYGmMr",
+        "recYOVtDnYSySGJxR",
+        "recC8gzEfjpXDKw5m",
+        "rec7hkqNpBl4DeWwD",
+        "recLWD4JLj9GBPHCC",
+        "recHBJmYuHujUS2B8",
+        "recGvdMoDhzBIpmCh",
+        "recuS10Tvqm54aW99",
+        "reckB3ydjPcotGELT",
+        "recUe4EUfpvBLqeyE",
+        "recykDd1SHdN1v55B",
+        "rec4JnmqCx7vaRZW6"
+      ],
+      "partners_(ref_partners)": [
+        "recdDBPUHDN3PKqV4"
+      ],
+      "fellows": [
+        "recheqSA0tRXj1egZ"
+      ],
+      "id": "recIGeObUyiTgA8Rn"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "SembraMedia",
+      "*events_(events.projects)": [
+        "recAbGbCozMg6i3If",
+        "recYjCPnIXal2ZwPl",
+        "rec0mS3wH6KDIJxae",
+        "recBSUjjaaDoeWSFL",
+        "recPBLslWZtnzjz0c",
+        "recOGpvzhXm4Pp6bu"
+      ],
+      "partners_(ref_partners)": [
+        "recJtKCw822qLtDpM"
+      ],
+      "fellows": [
+        "recIz0AoWzCL0GwPv"
+      ],
+      "id": "recKfrEkI1qysQHSn"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Digital Fridays",
+      "*events_(events.projects)": [
+        "recC8gzEfjpXDKw5m",
+        "rec7hkqNpBl4DeWwD",
+        "recLWD4JLj9GBPHCC",
+        "recykDd1SHdN1v55B",
+        "recpW6bFeXUX7O5Cp"
+      ],
+      "partners_(ref_partners)": [
+        "recdDBPUHDN3PKqV4",
+        "recwKxfVPeCUWVdOY",
+        "recIctIElpEOIGQlp",
+        "rectmst2ULIP6NTyo",
+        "recgOFbfCmh0OYrWL",
+        "rec9T1snB4LwrpibE"
+      ],
+      "fellows": [
+        "recheqSA0tRXj1egZ"
+      ],
+      "id": "recQFEz920bfzfrsD"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "id"
+    ],
+    "attrs": {
+      "name": "GEN Editors' Labs",
+      "*events_(events.projects)": [
+        "recQNUXW09VutOvfJ"
+      ],
+      "id": "recWrJCxamOYwanSs"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Coordinating funders in India",
+      "*events_(events.projects)": [
+        "rechTZCTC9nA0kmd6"
+      ],
+      "fellows": [
+        "recheqSA0tRXj1egZ"
+      ],
+      "id": "recXw6LsLQk8D58td"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "id"
+    ],
+    "attrs": {
+      "name": "InfoAmazonia",
+      "*events_(events.projects)": [
+        "recYUyZLMlOayShz8"
+      ],
+      "id": "recbRmh4GOaomc670"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "IE Health Product (Vertical, Section, Newsletter)",
+      "id": "recco08VBAJaBsAgq"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Mumbai media tool adoption",
+      "*events_(events.projects)": [
+        "reck15fBrPlioDlw1",
+        "recaxcDQlPI12K4CL",
+        "recgOLSKfFh38FOjT",
+        "recl6l04SbIifykPz",
+        "recJVU3qOTaT6jm4x",
+        "recnCrwqiw4NBOjuf",
+        "recijp9eidFEtp4cc",
+        "recUkAhmrSVt6hdHb",
+        "recvgpd78e2upo7im",
+        "recIbvVIQkxfmNKIJ",
+        "recA9qtxtf6X4AofD",
+        "reckxlyLo8vLwH51R"
+      ],
+      "partners_(ref_partners)": [
+        "recIctIElpEOIGQlp",
+        "rectmst2ULIP6NTyo"
+      ],
+      "fellows": [
+        "rec2KDBOMFlW96Er0"
+      ],
+      "id": "recfBi8tw8pg5zopG"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "360 video in Pakistan",
+      "*events_(events.projects)": [
+        "recwvRfwBRUYa62Xg",
+        "recTiApETDU1oBGLZ",
+        "recBrps4eLYTBojUX",
+        "recwIs4EVawyCKqS1",
+        "recU7DWv14o2H04nx",
+        "recg8HTZcfibXbM2Y",
+        "recHfVw0mjo3A0NIC"
+      ],
+      "partners_(ref_partners)": [
+        "recjV5PxcaYHF0spL",
+        "recb1lXaItWW40MlH",
+        "recTS8KxBfYNYDNxv"
+      ],
+      "fellows": [
+        "recvhSrDjLfgUKk92"
+      ],
+      "id": "reclgXJ3n8APWRSPa"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "id"
+    ],
+    "attrs": {
+      "name": "MOOC on how to monetize and manage digital media",
+      "*events_(events.projects)": [
+        "recZOMUDDjRHkwdgU",
+        "recx4UqXaXWpzj0ER",
+        "rec9jhfMc9vK9Px9P",
+        "rechwKpDArpl39jtG",
+        "rec6OLSSJIM3lS8HA",
+        "recUA799V8P2smvGn",
+        "rect17IobINhRolDT"
+      ],
+      "id": "recp5rrWD0RHPSQOu"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Newsroom security audits",
+      "*events_(events.projects)": [
+        "recVXWOPnxKJVHopL",
+        "recPGNcvJTHp4ebRO",
+        "recPHkgT9zwURibVz",
+        "recBTdNLuT7j1uyHI",
+        "recnv6OrAk14ZVr6H",
+        "rec7sNfCHyCzDFYQa",
+        "recSuTjGWolFs2DVR",
+        "recbv9OeBeKFKaClX",
+        "recbuENLOwVytvn8Z",
+        "recVgyeHzyhnfzpLU",
+        "recSMS8FbPIYIcdo6",
+        "recNaniPRuZHvRYib",
+        "recvCXACg7wtt12HF",
+        "recpG2JrQ7Z9DcUVu",
+        "recbl08hQBTn6d1r8",
+        "recHLqGjbT7MpqwGL",
+        "recAC7E5iZaIoR4Nz"
+      ],
+      "partners_(ref_partners)": [
+        "recyQoJo3HzlMRdXO",
+        "recUXz84buloiyH2O",
+        "recMUwYYWVwfcScvY",
+        "recqCE7GhiX8EvDyB",
+        "recmfnrGUSUGCoXzJ"
+      ],
+      "fellows": [
+        "rechAENTlCRRxKOr6"
+      ],
+      "id": "recqyclKNHWFghWAH"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "id"
+    ],
+    "attrs": {
+      "name": "SembraMedia Online School",
+      "*events_(events.projects)": [
+        "rec8NZjJR0UZ2mnio"
+      ],
+      "id": "recrDFxNcdbGGw7OH"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "Hacks/Hackers - Pakistan",
+      "*events_(events.projects)": [
+        "reck71tEoVoWGrwwf",
+        "reckb9AMHeTZF8nfw",
+        "recdUiL94xTm1wQmS",
+        "recnFAxgnh1YP1qyE"
+      ],
+      "partners_(ref_partners)": [
+        "reckIO70GuSoU71Ub"
+      ],
+      "fellows": [
+        "recvhSrDjLfgUKk92"
+      ],
+      "id": "recsKbpFub7kYyPHO"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Geo Innovation Team",
+      "*events_(events.projects)": [
+        "recg8HTZcfibXbM2Y",
+        "recXBXEQE5T3GgRx5",
+        "recx6sMP5NSMXFugZ",
+        "recAQqXKzj7XDlKgj",
+        "reckJZvpJIPKnmr14",
+        "recBySR94Tpwb05lk"
+      ],
+      "id": "recvJ8GD7P1HzpNSC"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "India Events",
+      "*events_(events.projects)": [
+        "reczUkZ1wBzaCtRt9",
+        "recAYiAWwjcRWuBOO"
+      ],
+      "fellows": [
+        "recnAnmkp70ogK0I6",
+        "rec01jNbaYLu3emdK",
+        "recheqSA0tRXj1egZ",
+        "rec2KDBOMFlW96Er0"
+      ],
+      "id": "recvxQUvQH4W8JPOJ"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "WION launch",
+      "*events_(events.projects)": [
+        "recIF1h4QAK4aKOce",
+        "reckKWWxapXXVR69A",
+        "recJwwzZjCgxzqbKR",
+        "recpW6bFeXUX7O5Cp"
+      ],
+      "partners_(ref_partners)": [
+        "recwKxfVPeCUWVdOY"
+      ],
+      "fellows": [
+        "recheqSA0tRXj1egZ"
+      ],
+      "id": "recyK4TeH1iuxWNgf"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Herald digitized surveys",
+      "*events_(events.projects)": [
+        "recppVHMUYscjcq2x"
+      ],
+      "id": "recyjflthJaNhogS9"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.projects)",
+      "Partners (ref_partners)",
+      "Fellows",
+      "id"
+    ],
+    "attrs": {
+      "name": "SPADE",
+      "*events_(events.projects)": [
+        "receb0k6yrDmDRAEL",
+        "recIF1h4QAK4aKOce",
+        "recJwwzZjCgxzqbKR"
+      ],
+      "partners_(ref_partners)": [
+        "recwKxfVPeCUWVdOY"
+      ],
+      "fellows": [
+        "recheqSA0tRXj1egZ"
+      ],
+      "id": "reczkazTSyRdwvYSZ"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+$oldValues = document.getElementById('event_event_digital_assets').value.split(',')
+$newValues = $oldValues.slice(0, -1);
+var asset = "<%= @digital_asset.asset %>"
+lastId = <%= @digital_asset.id %>
+  document.querySelector("[data-value='" + asset + "']").setAttribute("data-value", lastId)
+
+$newValues.push(lastId)
+document.getElementById('event_event_digital_assets').value = $newValues
+$('#event_digital_assets .menu').append("<div class='item active filtered' data-value='"+ lastId +"'>"+ asset + "</div>")

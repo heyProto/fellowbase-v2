@@ -1,0 +1,30 @@
+<div class="ui sixteen grid">
+  <div class="sixteen wide column fellow-column-without-bottom-padding">
+    <%= render partial: 'admins/header' %>
+  </div>
+  <%#= render partial: 'new' %>
+  <div class="sixteen wide column fellow-column-without-top-padding">
+    <table class="ui celled selectable table">
+      <thead>
+        <tr>
+          <th></th>
+          <th>Name</th>
+          <th>Genre</th>
+          <th>Created by</th>
+          <th>Updated by</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% @ref_impacts.each do |impact| %>
+          <tr>
+            <td><%= link_to '<i class="trash icon"></i>'.html_safe, admin_ref_impact_path(impact), method: :delete, data: {confirm: "Are you sure?"} %></td>
+            <td><%= best_in_place impact, :name, url: admin_ref_impact_path(impact) %></td>
+            <td><%= best_in_place impact, :genre, as: :select, collection: RefImpact::GENRES_CONSTANTS.map { |genre| [genre, genre]}.insert(0, ["", "None"]), url: admin_ref_impact_path(impact) %></td>
+            <td><%= impact.creator.email %></td>
+            <td><%= impact.updater.email %></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>

@@ -1,0 +1,105 @@
+<div class="ui three column centered grid fellow-top-padding">
+  <div class="column">
+    <%= link_to '<i class="large close icon"></i>'.html_safe, events_path, style: "float: right;" %>
+    <div style="margin-top: 0px; margin-bottom:20px;">
+      <p class="fellow-lables">Description</p>
+      <h2 style="margin-top:0px;"><%= @event.short_description %></h2>
+    </div>
+
+    <% if @event.event_date.present? %>
+      <div style="margin-top:20px; margin-bottom:20px;">
+        <p class="fellow-lables">Event Date</p>
+        <div style="margin-top:0px; margin-bottom:20px;">
+          <span><%= @event.event_date.strftime("%B %d, %Y") %></span>
+        </div>
+      </div>
+    <% end %>
+
+    <% if @event.ref_impacts.present? %>
+      <div style="margin-top:20px; margin-bottom:20px;">
+        <p class="fellow-lables">Impacts</p>
+        <div>
+          <% @event.ref_impacts.each do |resource| %>
+            <div class="ui label fellow-tag-with-max-width"><%= resource.name %></div>
+          <% end %>
+        </div>
+      </div>
+    <% end %>
+
+    <% if @event.projects.present? %>
+      <div style="margin-top:20px; margin-bottom:20px;">
+        <p class="fellow-lables">Projects</p>
+        <div>
+          <% @event.projects.each do |resource| %>
+            <div class="ui label fellow-tag-with-max-width"><%= resource.name %></div>
+          <% end %>
+        </div>
+      </div>
+    <% end %>
+
+
+    <% if @event.users.present? %>
+      <div style="margin-top:20px; margin-bottom:20px;">
+        <p class="fellow-lables">Fellows</p>
+        <div>
+          <% @event.users.each do |resource| %>
+            <div class="ui label fellow-tag-with-max-width"><%= resource.name %></div>
+          <% end %>
+        </div>
+      </div>
+    <% end %>
+
+    <% if @event.ref_countries.present? %>
+      <div style="margin-top:20px; margin-bottom:20px;">
+        <p class="fellow-lables">Countries</p>
+        <div>
+          <% @event.ref_countries.each do |resource| %>
+            <div class="ui label fellow-tag-with-max-width"><%= resource.name %></div>
+          <% end %>
+        </div>
+      </div>
+    <% end %>
+
+    <% if @event.ref_partners.present? %>
+      <div style="margin-top:20px; margin-bottom:20px;">
+        <p class="fellow-lables">Partners</p>
+        <div>
+          <% @event.ref_partners.each do |resource| %>
+            <div class="ui label fellow-tag-with-max-width"><%= resource.name %></div>
+          <% end %>
+        </div>
+      </div>
+    <% end %>
+
+    <% if @event.digital_assets.present? %>
+      <div style="margin-top:20px; margin-bottom:20px;">
+        <p class="fellow-lables">Digital Assets</p>
+        <div>
+          <% @event.digital_assets.each do |resource| %>
+            <div class="ui label"><%= link_to resource.asset, resource.asset, target: :_blank %></div>
+
+            <table class="ui celled selectable table">
+              <thead>
+                <tr>
+                  <th><%= "Metric Type" %></th>
+                  <th><%= "Value" %></th>
+                </tr>
+              </thead>
+              <tbody>
+                <% resource.trackable_metrics.sort_by{|a| a["genre"]}.each do |metric| %>
+                  <tr>
+                    <td><%= metric.genre.tr("_", " ").capitalize + " " + metric.metric_type.tr("_", " ") %></td>
+                    <td><%= metric.value %></td>
+                  </tr>
+                <% end %>
+              </tbody>
+            </table>
+
+          <% end %>
+        </div>
+      </div>
+    <% end %>
+
+
+  </div>
+</div>

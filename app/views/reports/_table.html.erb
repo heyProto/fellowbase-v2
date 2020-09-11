@@ -1,0 +1,45 @@
+<div class="sixteen wide column fellow-column-without-top-padding">
+  <div style="overflow:auto;">
+    <table class="ui celled selectable table">
+      <thead>
+        <tr>
+          <th></th>
+          <th class="single line">Asset</th>
+          <th class="single line">Last tried</th>
+          <th class="single line">Data freshness</th>
+          <% if show_errors %>
+            <th>Errors</th>
+          <% end %>
+        </tr>
+      </thead>
+      <tbody>
+        <% links.each do |da| %>
+          <tr>
+            <td class="signal-area"><%= indicator(da.custom_errors, da.tracked).html_safe %></td>
+            <td><a href="<%= da.asset %>" target="_blank"><%= da.asset %></a></td>
+            <td>
+              <% if da.last_requested_unixtime.present? %>
+                <% time = Time.at(da.last_requested_unixtime) %>
+                <%= distance_of_time_in_words(time, Time.now) + " ago" %>
+              <% else %>
+                <%= "Not requested" %>
+              <% end %>
+            </td>
+            <td>
+              <% if da.last_update_unixtime.present? %>
+                <% time = Time.at(da.last_update_unixtime) %>
+                <%= distance_of_time_in_words(time, Time.now) + " ago" %>
+              <% else %>
+                <%= "Not updated" %>
+              <% end %>
+            </td>
+              <% if show_errors %>
+                <td class="errors-column" title= "<%= da.custom_errors %>"><%= da.custom_errors %></td>
+              <% end %>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+    <%= paginate links %>
+  </div>
+</div>

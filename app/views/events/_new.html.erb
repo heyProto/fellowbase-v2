@@ -1,0 +1,153 @@
+<div class="fellow-full-screen-modal">
+
+  <div class="ui basic modal" id="newFormModal">
+    <!-- <div class="ui red close actions button"> // addded "cancel"
+         <i class="remove icon"></i>
+         NE
+         </div> -->
+    <i class="close icon"></i>
+    <div class="header">
+      Add Event
+    </div>
+    <h2 class="ui sub header">
+      <%= simple_form_for @event do |f| %>
+        <%= f.input :description, input_html: {class: 'fellow-description-text'}, placeholder: "Event Description" %>
+        <div class="ui checkbox"><%= f.input :is_confidential, as: :boolean, boolean_style: :inline %></div>&nbsp&nbsp&nbsp&nbsp
+        <div class="ui checkbox"><%= f.input :is_review_required, as: :boolean, boolean_style: :inline%></div>
+        <br><br><br>
+        <%#= f.input :event_date, as: :string, placeholder: "Event Date" %>
+
+        <div class="ui calendar" id="event_date_calender">
+          <div class="ui input left icon">
+            <!-- <i class="calendar icon"></i> -->
+            <%= f.input :event_date, as: :string, placeholder:"Event Date" %>
+          </div>
+        </div>
+        <br />
+
+        <%= f.input :notes, as: :text, placeholder: "Event Notes" %>
+        <div class="field string">
+          <label>Impacts</label>
+          <div name="event_ref_impacts" class="ui search multiple selection dropdown" id="event_ref_impacts">
+            <%= f.hidden_field :event_ref_impacts %>
+            <div class="default text">Impacts</div>
+            <i class="dropdown icon"></i>
+            <div class="menu">
+              <% @ref_impacts.each do |resource| %>
+                <div class="item" data-value=<%= resource.id %>><%= resource.name %></div>
+              <% end %>
+            </div>
+          </div>
+        </div>
+
+        <div class="field string">
+          <label>Projects</label>
+          <div name="event_projects" class="ui search multiple selection dropdown" id="event_projects">
+            <%= f.hidden_field :event_projects %>
+            <div class="default text">Projects</div>
+            <i class="dropdown icon"></i>
+            <div class="menu">
+              <% @projects.each do |resource| %>
+                <div class="item" data-value=<%= resource.id %>><%= resource.name %></div>
+              <% end %>
+            </div>
+          </div>
+        </div>
+
+        <div class="field string">
+          <label>Fellows</label>
+          <div name="event_fellows" class="ui search multiple selection dropdown" id="event_fellows">
+            <%= f.hidden_field :event_users %>
+            <div class="default text">Fellows</div>
+            <i class="dropdown icon"></i>
+            <div class="menu">
+              <% @fellows.each do |resource| %>
+                <div class="item" data-value=<%= resource.id %>><%= resource.name %></div>
+              <% end %>
+            </div>
+          </div>
+        </div>
+
+        <div class="field string">
+          <label>Digital Assets</label>
+          <div name="event_digital_assets" class="ui search multiple selection dropdown" id="event_digital_assets">
+            <%= f.hidden_field :event_digital_assets %>
+            <div class="default text">Digital Assets</div>
+            <i class="dropdown icon"></i>
+            <div class="menu">
+              <% @digital_assets.each do |resource| %>
+                <div class="item" data-value=<%= resource.id %>><%= resource.asset %></div>
+              <% end %>
+            </div>
+          </div>
+        </div>
+        <br><br>
+
+        <%= f.button :submit %>
+      <% end %>
+    </h2>
+
+  </div>
+</div>
+
+<div class="ui modal" id="confirmationModal">
+
+</div>
+
+
+<script type="text/javascript">
+ $(document).ready(function(){
+   $('#event_ref_impacts')
+     .dropdown()
+   ;
+   $('#event_projects')
+     .dropdown()
+   ;
+   $('#event_users')
+     .dropdown()
+   ;
+
+   $("#event_digital_assets")
+     .dropdown({
+       closable: false,
+       allowAdditions: true,
+       onNoResults: function(notFound){
+         a = /​(https?:\/\/)?(www\.)[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,4}\b([-a-zA-Z0-9@:%_\+.~#?&\/\/=]*)|(https?:\/\/)?(www\.)?(?!ww)[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,4}\b([-a-zA-Z0-9@:%_\+.~#?&\/\/=]*)/
+         if (a.test(notFound)) {
+
+           $('#digital_asset_asset').val(notFound);
+           $('#digital_asset_modal')
+             .modal('show')
+         }
+       },
+     })
+   /* onAdd: function(addedValue, addedText, $addedChoice){
+    *   if(addedValue === addedText){
+    *     // Prefills the value for asset in the form
+    *     $('#digital_asset_asset').val(addedValue);
+    *     $('#digital_asset_modal')
+    *       .modal({
+    *         allowMultiple: true,
+    *         closable: false,
+    *         onHide: function(){
+    *           var r = confirm("Are you sure you want to exit, your data will be lost.");
+    *           if (r){
+    *             return true
+    *           } else {
+    *             return false
+    *           }}
+    *       }).modal('show');
+    *   }}
+      })*/
+ });
+
+
+ $('#new_digital_asset').on('ajax:success', function(e, data, status, xhr){
+   debugger;
+   $('#digital_asset_modal')
+     .modal('hide');
+ }).on('ajax:error',function(e, xhr, status, error){
+   
+ });
+
+</script>

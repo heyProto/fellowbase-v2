@@ -1,0 +1,33 @@
+<%= simple_form_for([@project]) do |form| %>
+  <%= form.input :name, input_html: {placeholder: "Project Name"}, autofocus: true %>
+
+  <div class="field string">
+    <label>Users</label>
+    <div name="users" class="ui search multiple selection dropdown" id="name_list">
+      <%= form.hidden_field :name_list %>
+      <div class="default text">Project Users</div>
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <% @users.each do |user| %>
+          <div class="item" data-value=<%= user.id %>><%= user.name %></div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="field string">
+    <label>Partners</label>
+    <div name="partners" class="ui search multiple selection dropdown" id="partner_list">
+      <%= form.hidden_field :partner_list %>
+      <div class="default text">Project Partners</div>
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <% @partners.each do |partner| %>
+          <div class="item" data-value=<%= partner.id %>><%= partner.name %></div>
+        <% end %>
+      </div>
+    </div><br />
+  </div>
+  <%= form.button :submit %>
+  <div class="ui basic button" id="cancelEventFormButton"><a>Cancel</a></div>
+<% end %>

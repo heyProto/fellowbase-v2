@@ -1,0 +1,7 @@
+<div class="ui tabular menu fellow-tabular-menu">
+  <%= link_to "Report", report_path, class: "item #{controller_name == "reports" ? "active" : "fellow-tab"} " %>
+  <%= link_to "Events", events_path, class: "item #{controller_name == "events" ? "active" : "fellow-tab"} " %>
+  <%= link_to "Projects", projects_path, class: "item #{controller_name == "projects" ? "active" : "fellow-tab"} " %>
+  <%= link_to "Digital Assets", digital_assets_path, class: "item #{controller_name == "digital_assets" ? "active" : "fellow-tab"} " %>
+</div>
+

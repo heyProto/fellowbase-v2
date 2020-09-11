@@ -1,0 +1,9 @@
+<div class="ui tabular menu fellow-tabular-menu">
+  <%= link_to "Users", admin_users_path, class: "item #{controller_name == "users" ? "active" : "fellow-tab" }" %>
+  <%= link_to "Fellows", admin_fellows_path, class: "item #{controller_name == "fellows" ? "active" : "fellow-tab"}" %>
+  <%= link_to "Partners", admin_ref_partners_path, class: "item #{controller_name == "ref_partners" ? "active" : "fellow-tab"}" %>
+  <%= link_to "Impacts", admin_ref_impacts_path, class: "item #{controller_name == "ref_impacts" ? "active" : "fellow-tab"}" %>
+  <%= link_to "Targets", admin_ref_targets_path, class: "item #{controller_name == "ref_targets" ? "active" : "fellow-tab" }" %>
+</div>
+
+

@@ -1,0 +1,66 @@
+<% if @event.reports.present? %>
+  <div style="margin-top:20px; margin-bottom:20px;">
+    <p class="fellow-lables">Metrics</p>
+    <div>
+      <% links = @event.reports.group_by{|a| a["asset"]} %>
+      <% links.each do |link, metrics| %>
+        <div style="margin-bottom:10px;">
+          <div class="ui label"><%= link_to link, link, target: :_blank %></div><br>
+          <% metric_genres = metrics.group_by{|a| a['genre']} %>
+          <div class="ui sixteen grid">
+            <% metric_genres.each do |genre, values| %>
+              <div class="eight wide column">
+                <table class="ui celled selectable table">
+                  <thead>
+                    <tr>
+                      <th><%= genre.capitalize %></th>
+                      <th><%= "Value" %></th>
+                    </tr>
+                  </thead>
+                  <% values.each do |value| %>
+                    <tr>
+                      <td><%= value.metric_type.capitalize %></td>
+                      <td><%= value.value %></td>
+                    </tr>
+                  <% end %>
+                </table>
+              </div>
+            <% end %>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+<% end %>
+
+
+
+<% if @event.reports.present? %>
+  <div style="margin-top:20px; margin-bottom:20px;">
+    <p class="fellow-lables">Metrics</p>
+    <div>
+      <% links = @event.reports.group_by{|a| a["asset"]} %>
+      <% links.each do |link, metrics| %>
+        <div style="margin-bottom:10px;">
+          <div class="ui label"><%= link_to link, link, target: :_blank %></div><br>
+          <table class="ui celled selectable table">
+            <thead>
+              <tr>
+                <th><%= "Metric Type" %></th>
+                <th><%= "Value" %></th>
+              </tr>
+            </thead>
+            <tbody>
+              <% metrics.sort_by{|a| a["genre"]}.each do |metric| %>
+                <tr>
+                  <td><%= metric.genre.tr("_", " ").capitalize + " " + metric.metric_type.tr("_", " ") %></td>
+                  <td><%= metric.value %></td>
+                </tr>
+              <% end %>
+            </tbody>
+          </table>
+        </div>
+      <% end %>
+    </div>
+  </div>
+<% end %>

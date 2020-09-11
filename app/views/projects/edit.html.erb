@@ -1,0 +1,23 @@
+<div class="ui three column centered grid fellow-top-padding">
+  <div class="column">
+    <h3><p>Add Project</p></h3>
+    <%= render partial: "form" %>
+  </div>
+</div>
+
+<script type="text/javascript">
+ $('#name_list')
+   .dropdown('set selected', <%= @project.users.pluck(:id).map{|a|a.to_s }.to_json.html_safe %>)
+ ;
+ $('#partner_list')
+   .dropdown('set selected', <%= @project.ref_partners.pluck(:id).map{|a|a.to_s }.to_json.html_safe %>)
+ ;
+
+ $('#cancelEventFormButton').on('click', function(){
+   alertify.confirm("Please Confirm", "Are you sure you want to continue. Your data will not be saved.", function(){
+     window.location = "<%= projects_path %>"
+   }, function () {})
+ })
+
+
+</script>

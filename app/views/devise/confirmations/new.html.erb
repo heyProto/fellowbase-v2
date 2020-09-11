@@ -1,0 +1,15 @@
+<div class="ui three column centered grid">
+  <div class="column fellow-top-padding">
+    <h2>Resend confirmation instructions</h2>
+
+    <%= simple_form_for(resource, as: resource_name, url: confirmation_path(resource_name), html: { method: :post }) do |f| %>
+      <%= devise_error_messages! %>
+
+      <%= f.input :email, autofocus: true, value: (resource.pending_reconfirmation? ? resource.unconfirmed_email : resource.email), placeholder: "Email", label: '<p class="fellow-lables">Email</p>'.html_safe %>
+
+      <%= f.button :submit, "Resend confirmation instructions", class: 'ui button' %><br><br>
+    <% end %>
+
+    <%= render "devise/shared/links" %>
+    </div>
+</div>

@@ -1,0 +1,340 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require ./vendors/semantic.css
+ *= require ./vendors/semantic-theme.css
+ *= require_self
+ *= require jquery-ui.css
+ *= require ./vendors/alertify.css
+ *= require react-pivot.css
+*/
+ 
+/* .fellowbase-left-aligned-form{ */
+/*     position: absolute !important; */
+/*     z-index: 1000; */
+/*     background: white; */
+/*     left: -1000px; */
+/*     top: 115px; */
+/* } */
+
+/* .fellowbase-left-aligned-form.slide-in{ */
+/*     position: absolute !important; */
+/*     z-index: 1000; */
+/*     background: white; */
+/*     left: -1000px; */
+/*     top: 115px; */
+/* } */
+
+
+/*======== container ==========*/
+.fellow-container-top-padding{
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+.fellow-top-padding{
+    padding-top: 30px !important;
+}
+
+.fellow-container{
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fellow-small-container {
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+.fellow-navbar-container{
+    /*border-bottom: 1px solid #efefef !important;*/
+}
+
+
+/*========= table ==========*/
+td{
+    padding: 3px 10px !important;
+}
+
+th{
+    padding: 10px !important;
+}
+
+/*======== navbar =========*/
+.fellow-navbar-parent{
+    margin: 0px !important;
+    border-radius: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.ui.inverted.menu > .item:hover{
+    background: #1b1c1d !important;
+    border: 0px solid transparent !important;
+}
+
+/*=========== lables ===========*/
+
+.fellow-lables{
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+
+.fellow-tag-with-max-width{
+    max-width: 200px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+/*======== tabs =======*/
+.fellow-tabular-menu{
+    padding: 0px 25px !important;
+}
+
+.fellow-tab {
+    background: #e4e4e4 !important;
+    margin-left: 5px !important;
+    border-radius: 4px 4px 0px 0px !important;
+}
+
+.active.item {
+    margin-left: 5px !important;
+    border-radius: 4px 4px 0px 0px !important;
+}
+
+.ui.menu > .item:hover{
+    background: white !important;
+    border: 1px solid transparent !important;
+    border-bottom: 0px !important;
+}
+
+.ui.menu > a:hover{
+    border: -1px !important;
+}
+
+.ui.menu > .active.item:hover{
+    border: 1px solid #d4d4d5 !important;
+    background: white !important;
+}
+
+.ui.tabular.menu{
+    padding-top: 15px !important;
+    background: #efefef !important;
+    border-bottom: 0px !important;
+}
+
+.ui.menu > a{
+    color: #333 !important;
+}
+
+.ui.menu > a:hover{
+    color: #0366d6 !important;
+}
+
+
+/*========== modal =========*/
+.ui.dimmer, .ui.basic.modal, .ui.basic.modal > .header{
+    background-color: white !important;
+    color: #333 !important;
+}
+
+.ui.basic.modal > .close {
+    color: #0366E8 !important;
+}
+.ui.dimmer, .ui.modal, .ui.modal > .header{
+    background-color: white !important;
+    color: #333 !important;
+}
+
+.ui.modal > .close {
+    color: #0366E8 !important;
+}
+
+
+.ui.sub.header{
+    border-bottom: 0px !important;
+    text-transform: none !important;
+}
+
+.fellow-description-text{
+    font-size: 1.71428571rem !important;
+}
+
+.ui.form .field>label{
+    font-size: 1em !important;
+    margin-bottom: 7px;
+}
+
+
+/*=========== pagination ==========*/
+.fellow-pagination-parent{
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.fellow-pagination{
+    border: 1px solid white !important;
+    box-shadow: none !important;
+    background: white !important;
+}
+
+.ui.pagination.menu .item{
+    border: 0px !important;
+}
+
+.ui.pagination.menu .active.item{
+    border-radius: 0px !important;
+}
+
+.ui.pagination.menu .item:hover{
+    background: #fafafa !important;
+}
+
+.ui.pagination.menu .active.item:hover{
+    border: 0px !important;
+    background: #efefef !important;
+}
+
+/* .ui.pagination.menu > .active.item:hover{ */
+/*     border-bottom: 2px solid #1B1C1D !important; */
+/*     background: transparent !important; */
+
+/* } */
+/* .ui.pagination.menu > .item:hover{ */
+/*     border-bottom: 2px solid transparent !important; */
+/*     background: transparent !important; */
+/* } */
+/*=========== custom css (semanti)==========*/
+
+.fellow-column-without-bottom-padding{
+    padding-bottom: 0px !important;
+}
+
+.fellow-column-without-top-padding{
+    padding-top: 0px !important;
+}
+
+.ui.button:hover {
+    background: #efefef !important;
+    color: #333 !important;
+    border: 0px solid #333 !important;
+}
+
+body ::-webkit-scrollbar{
+    height: 7px !important;
+
+}
+
+body ::-webkit-scrollbar-track{
+    width: 3px !important;
+    background: #efefef !important;
+    border-radius: 0px !important;
+}
+
+body ::-webkit-scrollbar-thumb{
+    width: 10px !important;
+    background: #ccc !important;
+    border-radius: 0px !important;
+}
+
+i.icon{
+    margin: 0px !important;
+    height: 1em !important;
+    width: 1em !important;
+}
+
+.close.icon {
+    color: gray !important;
+}
+
+.close.icon:hover {
+    color: black !important;
+}
+
+/* For fixed button on right corner */
+#fixedButton {
+    z-index: 1000;
+    position: fixed;
+    margin: 30px;
+    bottom: 0px;
+    right: 0px;
+}
+
+
+.fellowbase-left-aligned-form {
+    z-index: 1000;
+    background: white;
+    top: 115px;
+    position: absolute !important;
+    transform: translateX(-100%);
+    -webkit-transform: translateX(-100%);
+    height: 100vh;
+}
+
+.slide-in {
+    animation: slide-in 0.5s forwards;
+    -webkit-animation: slide-in 0.5s forwards;
+}
+
+.slide-out {
+    animation: slide-out 0.5s forwards;
+    -webkit-animation: slide-out 0.5s forwards;
+}
+
+@keyframes slide-in {
+    100% { transform: translateX(0%); }
+}
+
+@-webkit-keyframes slide-in {
+    100% { -webkit-transform: translateX(0%); }
+}
+
+@keyframes slide-out {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(-100%); }
+}
+
+@-webkit-keyframes slide-out {
+    0% { -webkit-transform: translateX(0%); }
+    100% { -webkit-transform: translateX(-100%); }
+}
+
+.ui.label {
+    margin-top: 2px !important;
+    margin-bottom: 2px !important;
+    font-weight: 100 !important;
+}
+
+a.ui.label.transition.visible {
+    word-break: break-word !important;
+}
+
+.delete.icon {
+    float: right;
+    margin-left: 10px !important;
+    color: gray;
+}
+
+i.large.remove.icon:hover, i.large.checkmark.icon:hover {
+                               cursor: pointer;
+                           }
+

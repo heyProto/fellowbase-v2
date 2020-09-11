@@ -1,0 +1,35 @@
+<div class="sixteen wide column fellow-column-without-bottom-padding">
+  <%= render partial: 'projects/projects' %>
+</div>
+<div style="border-bottom-width:2px;"></div>
+<%= javascript_include_tag "react-pivot" %>
+<div id="report_container"></div>
+
+<script type="text/javascript">
+ var rows = <%= @report_data.html_safe %>,
+     selected_dimensions = "<%= @selected_dimensions %>",
+     user_id = "<%= @id %>",
+     react_pivot_options;
+
+ selected_dimensions = selected_dimensions.split(",").filter(function(e) {return e !== ""})
+
+ react_pivot_options = {
+   rows: rows,
+   dimensions: dimensions,
+   calculations: calculations,
+   reduce: reduce,
+   tableClassName: "table table-striped",
+   onDimensionChange: onDimensionChange
+ };
+
+
+ if (selected_dimensions && selected_dimensions.length > 0) {
+   react_pivot_options.activeDimensions = selected_dimensions;
+ }
+
+ $(document).on('turbolinks:load', function() {
+   ReactPivot(document.getElementById('report_container'), react_pivot_options);
+ });
+
+
+</script>

@@ -1,0 +1,18 @@
+<div class="ui three column centered grid">
+  <div class="column fellow-top-padding">
+    <h2>Sign Up</h2>
+    <%= simple_form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+      <%= devise_error_messages! %>
+      <%= f.input :name, autofocus: true, placeholder: "Name", label: '<p class="fellow-lables">Name</p>'.html_safe %>
+      <%= f.input :email, autofocus: true, placeholder: "Email", label: '<p class="fellow-lables">Email</p>'.html_safe %>
+      <% if @minimum_password_length %>
+        <em>(<%= @minimum_password_length %> characters minimum)</em>
+      <% end %><br />
+      <%= f.input :password, autocomplete: "off", placeholder: "Password", label: '<p class="fellow-lables">Password</p>'.html_safe %>
+      <%= f.input :password_confirmation, autocomplete: "off", placeholder: "Confirm Password", label: '<p class="fellow-lables">Confirm Password</p>'.html_safe %>
+      
+      <%= f.button :submit, "Sign up", class: 'ui button' %><br><br>
+    <% end %>
+    <%= render "devise/shared/links" %>
+  </div>
+</div>

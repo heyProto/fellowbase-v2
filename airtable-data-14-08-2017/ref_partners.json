@@ -1,0 +1,739 @@
+[
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "El Noroeste",
+      "*projects_(projects.partners)": [
+        "recEM3n7Z5T3tKPPJ"
+      ],
+      "projects": "Newsroom (or individual reporter) security training/policies",
+      "events": [
+        "recOQYGsun76BkX2B"
+      ],
+      "id": "rec08n0l8jtDpl5K0"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Florida International University",
+      "events": [
+        "recW01J92Bi0etAMa"
+      ],
+      "id": "rec2M504h76AFxqD5"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "CETYS University",
+      "events": [
+        "recxGyYPboTfeam9V",
+        "recDrPbfXbzUaPQWF"
+      ],
+      "id": "rec2RDsWRVOPQ1nod"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "recJ0YDC9cuBlHmji"
+      ],
+      "id": "rec4RkLDMfSe0QaHA"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "dawn.com",
+      "*projects_(projects.partners)": [
+        "recm4qJuE8dLIc6g9",
+        "reczuOLqzwxd9kL4c"
+      ],
+      "events": [
+        "recZkVVg0Dtvyjrb3"
+      ],
+      "id": "rec76ZMUNDVbb6GMx"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "El Universal",
+      "*projects_(projects.partners)": [
+        "recEM3n7Z5T3tKPPJ"
+      ],
+      "projects": "Newsroom (or individual reporter) security training/policies",
+      "events": [
+        "recVZhIGnh4aCTpVN"
+      ],
+      "id": "rec8bqarnSiMv1AhQ"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "rechgENht4GEfswV2"
+      ],
+      "id": "rec9QYHytNvyoM5hp"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Google News Lab",
+      "events": [
+        "recTGlIrGFdm2Hgv4"
+      ],
+      "id": "rec9plcEaE4ro2VNv"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Dallas Morning News",
+      "*projects_(projects.partners)": [
+        "recEM3n7Z5T3tKPPJ"
+      ],
+      "id": "recAtet36gR4PRQOL"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "Country",
+      "id"
+    ],
+    "attrs": {
+      "name": "Aristegui Noticias",
+      "*projects_(projects.partners)": [
+        "recEM3n7Z5T3tKPPJ"
+      ],
+      "projects": "Newsroom (or individual reporter) security training/policies",
+      "country": [
+        "recORmgMFxjsraWUr"
+      ],
+      "id": "recEQv93tGUwRYwND"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "recIE6UR68rM9bEWa"
+      ],
+      "id": "recETv4HEZ7m0S0jr"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "id"
+    ],
+    "attrs": {
+      "name": "Hindustan Times - Mumbai",
+      "*projects_(projects.partners)": [
+        "rectP9aQIwmEi2hEI",
+        "rec4TvBweo8DMIkHF"
+      ],
+      "projects": "Hindustan Times - Mumbai stories using Google tools",
+      "id": "recHAjvp69FdjgMNq"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "recXbLGflQkCn2ZDH"
+      ],
+      "id": "recHR855Bxlt9mRsC"
+    }
+  },
+  {
+    "column_keys": [
+      "id"
+    ],
+    "attrs": {
+      "id": "recI6QO0EqHfiELaP"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "South Texas College",
+      "events": [
+        "rec2h9qFhwf5qKA1I"
+      ],
+      "id": "recIVYGeUZY66UNB7"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "id"
+    ],
+    "attrs": {
+      "name": "WION",
+      "*projects_(projects.partners)": [
+        "recNy1Bg4WOBJYR71",
+        "rec4TvBweo8DMIkHF",
+        "recMYVVBTpfSKpGvh"
+      ],
+      "projects": "WION launch,SPADE,Digital Fridays",
+      "id": "recKYohi1Czi9o630"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "id"
+    ],
+    "attrs": {
+      "name": "Other (please let Sara know if you use this option)",
+      "*projects_(projects.partners)": [
+        "recEM3n7Z5T3tKPPJ"
+      ],
+      "projects": "Coordinating funders in India,SPADE,Border security workshops,Salama,Newsroom (or individual reporter) security training/policies",
+      "id": "recM4fLLf5wJZk6cQ"
+    }
+  },
+  {
+    "column_keys": [
+      "id"
+    ],
+    "attrs": {
+      "id": "recQusLtoqjacuPgV"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "rec2n4hZqEHFx12ch"
+      ],
+      "id": "recTAWYzcguPv0Pz9"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Fundación Violeta Barrios de Chamorro",
+      "events": [
+        "rec33u7oSlRXHdOh1"
+      ],
+      "id": "recV5B2Yej2Ssw4yn"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Kazakh TV",
+      "*projects_(projects.partners)": [
+        "reclxapWAsCwryl3L"
+      ],
+      "id": "recVttKzsRU2VY0Wn"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "id"
+    ],
+    "attrs": {
+      "name": "IndiaSpend",
+      "*projects_(projects.partners)": [
+        "rectP9aQIwmEi2hEI",
+        "rec4TvBweo8DMIkHF"
+      ],
+      "projects": "IndiaSpend multimedia + data stories,Thursday Tools training",
+      "id": "recWqkK1xNBcV9JAr"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "SembraMedia",
+      "*projects_(projects.partners)": [
+        "recYtiGHUpnWFjA7p"
+      ],
+      "projects": "SembraMedia",
+      "events": [
+        "recjKQDl3iXPTndVM",
+        "rece0acYMwfbofPrp",
+        "rec1PVI1sre3e2WQ6",
+        "recztFk176uLpmRfT",
+        "recdhYNCk6JNHahVZ",
+        "recyviKOSRYlBRRq8",
+        "reciynSUDkgJzmIha",
+        "recMiCMbTbeEqnPio",
+        "recYmViemB9HyugaF",
+        "receNrZ1zafKu5Pc1",
+        "rec0URcKbFQXPHHYr",
+        "rec52vcQNZqEmD6v1",
+        "recHfYKLn6KF4ReSV",
+        "rec8OYbw7wMqFPoVp",
+        "recm1Ql63oRnfPgxq",
+        "rec3bVoYdDzXktHqK",
+        "recaSNJ5RvCaq9LG0",
+        "recawvRrHXhUSi6Xq",
+        "recla0OP5sxoJwWph",
+        "rec0PaSOpXVG99Aj0",
+        "recLiLskmlTNMMTTT",
+        "recxGyYPboTfeam9V",
+        "recDrPbfXbzUaPQWF",
+        "recTGlIrGFdm2Hgv4",
+        "recSnBLUf0dKt7k1r",
+        "recQRsDAdAMmO7P6R",
+        "recrVzLnKd4qffUbd",
+        "recOWhfRUtv4sZT6p",
+        "recOelYlqUuuKE43Y",
+        "recf8yFtPguGplEd0"
+      ],
+      "id": "recXHBETkqZOYWwEO"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "FNPI",
+      "events": [
+        "reciynSUDkgJzmIha",
+        "recMiCMbTbeEqnPio",
+        "recf8yFtPguGplEd0"
+      ],
+      "id": "recaNe4TXQvuoigdo"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "recAYZc0i8mwKzuKD",
+        "recmG9NYZuVWqgISy"
+      ],
+      "id": "recaVqnwoWEDCdXE6"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "ICFJ",
+      "events": [
+        "recCn9aWVX8Pbue6A"
+      ],
+      "id": "recacuqC9SYVISMCw"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "recIoZ5tT7ucz73pR"
+      ],
+      "id": "recbRmIrBQYMvmmiK"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "UT Knight Center",
+      "id": "rece1Gws7GKVX5VTK"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Global Editors Network",
+      "events": [
+        "rec4XoCClh5SoAcq3"
+      ],
+      "id": "receFfEoom44AlHnN"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "id"
+    ],
+    "attrs": {
+      "name": "OCCRP",
+      "*projects_(projects.partners)": [
+        "recVNEVfHcB8NVEyO"
+      ],
+      "projects": "Push",
+      "id": "receblCnIeteWhqwY"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Hacks/Hackers Pakistan",
+      "events": [
+        "recyp0C9TCQnSBguy"
+      ],
+      "id": "reclgJinEKsLQJwlA"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "recnJvin7YHi6sK1V"
+      ],
+      "id": "recmrKtLve41dycZd"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "*projects_(projects.partners)": [
+        "rec4TvBweo8DMIkHF"
+      ],
+      "events": [
+        "rec21Kw4Kqso5PIR1",
+        "recWbPyqx97d1ZB9h",
+        "recXeFySpZncDHN9P",
+        "rec1Ep4u5rWvsgKFY",
+        "recMzfQi3jbSucH7v",
+        "recXNmpdMMcQlF6j3",
+        "rec0dooMqt1nvheUY",
+        "recZzrjjtEc51tpyq",
+        "recu5Bc13jc1A9kTZ",
+        "recPK7HRo6R11HYKt",
+        "recR4Y5exOFLzXMh9",
+        "recjknQouAp7xlM35",
+        "recC8Dyh4wlhZ7nSh",
+        "recx7uODogbXVsDRj",
+        "rec2EIXb3sG1rHsYm"
+      ],
+      "id": "recn7SuKNsIUESbqG"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "rec8uAVbcNu76fgHB"
+      ],
+      "id": "recpPth6cvalyf341"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Geo News",
+      "*projects_(projects.partners)": [
+        "recm4qJuE8dLIc6g9",
+        "reczuOLqzwxd9kL4c"
+      ],
+      "projects": "Facebook Live in Pakistan,360 video in Pakistan,Geo News stories and projects",
+      "events": [
+        "recbPOGdQtQrTJKM7",
+        "recLkjOchbPaa8nv1"
+      ],
+      "id": "recpfcZxURTkhtFAJ"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Border Center for Journalists and Bloggers",
+      "events": [
+        "rec2h9qFhwf5qKA1I"
+      ],
+      "id": "recqJW7QzyrKv6Sqx"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "id"
+    ],
+    "attrs": {
+      "name": "Hindustan Times - Delhi",
+      "*projects_(projects.partners)": [
+        "recWU5Qy6Wfht316p",
+        "rec4TvBweo8DMIkHF"
+      ],
+      "projects": "Hindustan Times Delhi Labs Team,Digital Fridays",
+      "id": "recrRsRhT1Kr2dja6"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "U.S. Department of State",
+      "events": [
+        "rece0acYMwfbofPrp",
+        "rec1PVI1sre3e2WQ6",
+        "recyviKOSRYlBRRq8",
+        "recYmViemB9HyugaF",
+        "recbdpAwRfjX8yVCX",
+        "recxGyYPboTfeam9V",
+        "recDrPbfXbzUaPQWF"
+      ],
+      "id": "rectJP8hICRF7e6Kg"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Knight Center for Journalism in the Americas at The University of Texas at Austin",
+      "events": [
+        "rec1JGlGdPxWsAWY5"
+      ],
+      "id": "rectNNjtSVRC0L11m"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Jagran",
+      "*projects_(projects.partners)": [
+        "rec4TvBweo8DMIkHF"
+      ],
+      "events": [
+        "recmGKItg4NinBMrA",
+        "reccJHDvHSeiKQb08"
+      ],
+      "id": "recu2wdCOKeo1rkbN"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "recsUVeTKDbyugjQe"
+      ],
+      "id": "recuK5JMvKg9tV0fs"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "id"
+    ],
+    "attrs": {
+      "name": "Express Tribune",
+      "*projects_(projects.partners)": [
+        "reckfDEawShCkN1Jg",
+        "reczuOLqzwxd9kL4c",
+        "recm4qJuE8dLIc6g9"
+      ],
+      "projects": "Express Tribune CMS,360 video in Pakistan",
+      "id": "recx9WRUoyV5StlEN"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*projects (projects.partners)",
+      "projects",
+      "id"
+    ],
+    "attrs": {
+      "name": "Hacks/Hackers",
+      "*projects_(projects.partners)": [
+        "recGY2r2Gz4Ib1IWQ",
+        "recfJlPQXr5oRtRGb"
+      ],
+      "projects": "Hacks/Hackers events",
+      "id": "recyWF9nSSPM7AU9d"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "Indian Express",
+      "events": [
+        "recuCJDrgIpbTOdvL"
+      ],
+      "id": "recyjCzf0qaEZlOeo"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "name": "La Fundación del Empresariado Chihuahuense",
+      "events": [
+        "rec1PVI1sre3e2WQ6"
+      ],
+      "id": "reczctgumlBiwlWSQ"
+    }
+  }
+]

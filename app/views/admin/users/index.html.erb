@@ -1,0 +1,47 @@
+<div class="ui sixteen grid">
+  <div class="sixteen wide column fellow-column-without-bottom-padding">
+    <%= render partial: 'admins/header' %>
+  </div>
+  <%#= render partial: 'new' %>
+  <div class="sixteen wide column fellow-column-without-top-padding">
+    <table class="ui celled selectable table">
+      <thead>
+        <tr>
+          <th>Status</th>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Role</th>
+          <th>Last Active</th>
+          <th>Created at</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><%= "Active" %></td>
+          <td><b><%= current_user.name %></b></td>
+          <td><b><%= current_user.email %></b></td>
+          <td><%= current_user.role.capitalize %></td>
+          <td><%= "Now" %></td>
+          <td><%= distance_of_time_in_words(current_user.created_at, Time.now) + " ago" %></td>
+        </tr>
+        <% @users.each do |user| %>
+          <tr>
+            <td><%= best_in_place user, :is_active, as: :select, collection: [[true, "Active"], [false, "Disabled"]], url: admin_user_path(user) %></td>
+            <td><%= user.name %></td>
+            <td><%= user.email %></td>
+            <td><%= user.role.capitalize %></td>
+            <% if user.last_sign_in_at.present? %>
+              <td><%= distance_of_time_in_words(user.current_sign_in_at, Time.now) + " ago" %></td>
+            <% else %>
+              <td> - </td>
+            <% end %>
+            <td><%= distance_of_time_in_words(user.created_at, Time.now) + " ago" %></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>
+</div>
+
+

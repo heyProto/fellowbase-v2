@@ -1,0 +1,156 @@
+[
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "20% of journalists who attend training observed or reporting new use of tools, technologies",
+      "id": "rec08E07u6PRRotyE"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "4 case studies on tool adoption",
+      "id": "rec1fuxv9pqaDYfI8"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "20 trainings held",
+      "id": "rec3UrR6goGNIHmka"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "3 Backlinks per project",
+      "id": "rec74K1fwxoeqr7Ky"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "5,000 page views per project",
+      "id": "rec8d4Lu9QF5WAQSA"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "80% of surveys with increased scores",
+      "id": "recGOe0v2Ir2gG8BV"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "100 Facebook reactions and comments per project",
+      "id": "recH5zz03bqaPtNmN"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "15 trainings led by trainer-trainees",
+      "id": "recIM0EpE5IrvUyaz"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "8 new/improved channels/methods for audience engagement",
+      "id": "recPwIsx17Pjwv39J"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "100 journalists trained by new trainers",
+      "id": "recTAVMS9CeNoZS91"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "list of submissions",
+      "id"
+    ],
+    "attrs": {
+      "name": "7 completed stories and projects per media partner",
+      "list_of_submissions": [
+        "recONTuHy2v0SmPCZ"
+      ],
+      "id": "recgKUcyONXyEOoqC"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "3 instances of policy/societal impact",
+      "id": "reckVt1Dwedq35tmE"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "10 Twitter likes and retweets per project",
+      "id": "recnx4l0qBv40WB6K"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "Delivery of technology that satisfies at least 80% of requirements identified at start of program",
+      "id": "recvMcKuq7EyO6S7a"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "15 tools adopted by some newsroom staff",
+      "id": "recwYz6QqtNUDMbyR"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+    <h3>Hello <%= @user_invite.email %>, </h3>
+    <p>
+      You have been invited to sign up with <%= @url.to_s %>,<br>
+      Please Sign Up with this email address.
+    </p>
+    <p>
+      To login to the site, just follow this link: <%= @sign_up_url %>.
+    </p>
+  </body>
+</html>

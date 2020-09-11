@@ -1,0 +1,16 @@
+<%= simple_form_for @digital_asset, url: digital_assets_path, remote: true do |form| %>
+  <%= form.input :asset, input_html: {placeholder: "Asset"} %>
+  <%= form.input :headline, input_html: {placeholder: "Headline"} %>
+  <%= form.input :publication, input_html: {placeholder: "Publication"}, as: :string %>
+  <div class="ui calendar" id="event_date_calender">
+    <div class="ui input left icon">
+      <%= form.input :publish_date, as: :string, placeholder:"Publish Date" %>
+    </div>
+  </div>
+  <br />
+
+  <%= form.input :post_type, collection: DigitalAsset::POST_TYPE_CONSTANTS, include_blank: true %>
+  <%= form.button :submit, "Create Asset" %>
+  <button type="button" class="ui basic button" id="cancelButton">Don't save and cancel</button>
+<% end %>
+

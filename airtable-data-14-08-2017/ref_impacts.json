@@ -1,0 +1,396 @@
+[
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "id"
+    ],
+    "attrs": {
+      "name": "Government / public institution action",
+      "genre": "Societal Outcome",
+      "id": "rec5yTdPxtMWEBrXy"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "id"
+    ],
+    "attrs": {
+      "name": "Citizen action / behavior change",
+      "genre": "Societal Outcome",
+      "id": "rec5z8f7ivbn76Bdw"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Training resource created",
+      "*events_(events.ref_impact_types)": [
+        "rec3bVoYdDzXktHqK",
+        "recm1Ql63oRnfPgxq",
+        "recaSNJ5RvCaq9LG0",
+        "recawvRrHXhUSi6Xq",
+        "recla0OP5sxoJwWph",
+        "rec0PaSOpXVG99Aj0",
+        "recBacYqp1Qrmy5Qo",
+        "recd2DW0PHO5xZ6vW",
+        "recOelYlqUuuKE43Y",
+        "recjKQDl3iXPTndVM"
+      ],
+      "id": "rec6yGsm1LCWn8DYl"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Story produced",
+      "*events_(events.ref_impact_types)": [
+        "recsUVeTKDbyugjQe"
+      ],
+      "id": "rec9XYzdm2GO8J6cb"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "id"
+    ],
+    "attrs": {
+      "name": "Citizen contribution",
+      "genre": "Societal Outcome",
+      "id": "recGwFghLHmuD53s4"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Private institution / NGO change or action",
+      "genre": "Societal Outcome",
+      "*events_(events.ref_impact_types)": [
+        "recv7QEgOxkYdNfs8"
+      ],
+      "id": "recLMzv80vz0LbAiU"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Event / training held",
+      "genre": "Activity",
+      "*events_(events.ref_impact_types)": [
+        "recmBf1wkGUg7SbCv",
+        "rec2h9qFhwf5qKA1I",
+        "recagivXBbxL6eZwA",
+        "rec3VbiglXti4L4aB",
+        "recP74P8Gh4HeXrWK",
+        "recBJXQOMIYscoklJ",
+        "reclGEhZTWzXQ8R5c",
+        "rec6IKl38Mi3FvwaT",
+        "rec60Ja2ndFmVF6D8",
+        "rec2urhHveGtZoQ3k",
+        "rec15BRTmujAhYXSU",
+        "rec9o8nkZJamUy5WG",
+        "recKJIhTNfRmnzVci",
+        "recylSv1AjlkTUpLh",
+        "rec1wN2MwZbIPb1CV",
+        "recBQiyNuU1bOhcJh",
+        "receAJ5TTuH1Vcqpg",
+        "rec3PCuI8nqLMMsfe",
+        "rec2UgxWtljs2SZqw",
+        "recnx8h9oxs8miqoR",
+        "recOc9CjIH9f9Xu3Q",
+        "recN8b1oIZwyPWKIb",
+        "recbdpAwRfjX8yVCX",
+        "recCn9aWVX8Pbue6A",
+        "rec33u7oSlRXHdOh1",
+        "recf8yFtPguGplEd0",
+        "recTGlIrGFdm2Hgv4",
+        "recYmViemB9HyugaF",
+        "recMiCMbTbeEqnPio",
+        "reciynSUDkgJzmIha",
+        "recDrPbfXbzUaPQWF",
+        "recxGyYPboTfeam9V",
+        "rec1PVI1sre3e2WQ6",
+        "rece0acYMwfbofPrp",
+        "recOQYGsun76BkX2B",
+        "rec4XoCClh5SoAcq3",
+        "recMcLuBsW6mivMIK",
+        "recyp0C9TCQnSBguy"
+      ],
+      "id": "recQNYB5d7TCuW2q9"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "New tool adopted",
+      "genre": "Societal Outcome",
+      "*events_(events.ref_impact_types)": [
+        "recsl5HFqhkqrMmmg",
+        "reczkc2r4zFGs1d4B",
+        "recV3PTwHGdu2op6k",
+        "recf6GsCUPfZASO3b",
+        "recX9L5N0h7hjMfjz",
+        "recJugfukCZSCR0xo",
+        "recwxgbBuBC2GSXre",
+        "recwxQNmX3cF7lRZ7",
+        "recgqrICtVMhCisMP",
+        "recpzRaE2ZQLjGUGa",
+        "recVZhIGnh4aCTpVN"
+      ],
+      "id": "recRylRoxI4u636OV"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Story produced",
+      "*events_(events.ref_impact_types)": [
+        "recumyVmoDfzaEFh0",
+        "recZkVVg0Dtvyjrb3",
+        "recngsYXwjBseO4hm",
+        "recaMhlUIrW9ElQpo",
+        "recBLx82PAL401dVI",
+        "reclF39RNfmsVIUqa",
+        "rec8EOeXQfPFsDJhP",
+        "recmGKItg4NinBMrA",
+        "rec21Kw4Kqso5PIR1",
+        "recAYZc0i8mwKzuKD",
+        "recWbPyqx97d1ZB9h",
+        "recXeFySpZncDHN9P",
+        "recPeAj2ffm8hYWPI",
+        "rec1Ep4u5rWvsgKFY",
+        "recmG9NYZuVWqgISy",
+        "recnJvin7YHi6sK1V",
+        "recuCJDrgIpbTOdvL",
+        "recIE6UR68rM9bEWa",
+        "rec8uAVbcNu76fgHB",
+        "recIoZ5tT7ucz73pR",
+        "recJ0YDC9cuBlHmji",
+        "recXbLGflQkCn2ZDH",
+        "recsUVeTKDbyugjQe",
+        "rec2n4hZqEHFx12ch",
+        "recZzrjjtEc51tpyq",
+        "rechgENht4GEfswV2",
+        "recMzfQi3jbSucH7v",
+        "recu5Bc13jc1A9kTZ",
+        "recbPOGdQtQrTJKM7",
+        "recLkjOchbPaa8nv1",
+        "recR4Y5exOFLzXMh9",
+        "recXNmpdMMcQlF6j3",
+        "recjknQouAp7xlM35",
+        "recPK7HRo6R11HYKt",
+        "recC8Dyh4wlhZ7nSh",
+        "recx7uODogbXVsDRj",
+        "recQovw2B4zzbOdmE",
+        "rec2EIXb3sG1rHsYm",
+        "recrHXZXdtbuPaAXj"
+      ],
+      "id": "recVMlQgGQmBV3g1r"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "id"
+    ],
+    "attrs": {
+      "name": "Change in media (individual journalist(s))",
+      "genre": "Media Outcome",
+      "id": "recVeHFZOBFDnc7GC"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Network formation / strengthening",
+      "genre": "Societal Outcome",
+      "*events_(events.ref_impact_types)": [
+        "recWpmX52IuDzgDXL",
+        "recB2CaOlDzO6Qh7M",
+        "rec41LZjcxSSGhouL",
+        "recMcLuBsW6mivMIK"
+      ],
+      "id": "recWpyiOLJyCgR4Ej"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "id"
+    ],
+    "attrs": {
+      "name": "story produced",
+      "id": "reckWGo3kgEDu1MGf"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Additional funding",
+      "genre": "Media Outcome",
+      "*events_(events.ref_impact_types)": [
+        "recD4U5bnqu0lwVT8",
+        "recOpxdZAXJEjLWXh",
+        "recP6LlGmyAMrpLUN",
+        "reca7yUcjGQKOFNCm"
+      ],
+      "id": "recoDXVFPr775z4OF"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Award",
+      "genre": "Media Outcome",
+      "*events_(events.ref_impact_types)": [
+        "recenf5Z2L86gtZsp"
+      ],
+      "id": "rectAgKrgyYGdke6A"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "New data created or released",
+      "genre": "Output",
+      "*events_(events.ref_impact_types)": [
+        "recyLcA8Aws9JaYgT"
+      ],
+      "id": "recvES7j4dwELJciK"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "New tool or news product created",
+      "genre": "Output",
+      "*events_(events.ref_impact_types)": [
+        "recrRFCieeOSuSQhI",
+        "recc8p18YJLyLlaOa",
+        "recLiLskmlTNMMTTT",
+        "recvKBr0MPmJgCcII",
+        "recLncTLEgdwQ0Xrb"
+      ],
+      "id": "recwKbpibevmZOogb"
+    }
+  },
+  {
+    "column_keys": [
+      "Name",
+      "Genre",
+      "*events (events.ref_impact_types)",
+      "id"
+    ],
+    "attrs": {
+      "name": "Change in media (newsroom level)",
+      "genre": "Media Outcome",
+      "*events_(events.ref_impact_types)": [
+        "rec9bNQczVH78ahEN",
+        "rec3UEeSVhENhH46Q",
+        "recspRmtKPAKQktTN",
+        "recA9d1K2cda188zR",
+        "recl85E0XP6bwqQL6",
+        "recTjXaG0PVTb9f1t",
+        "recWTSjr2YHsndHrg",
+        "recyYNYUmNUl8kZoC",
+        "recc2Mv0zmPW59CMT",
+        "recXKnBmv0dVMT4ZT",
+        "recDaXd2qlRlkhYRr",
+        "recQm7B1rHmlQdpko",
+        "reclvbsaBZisQHPLF",
+        "recZau66XH64OiARE",
+        "recVPAolG5rH7lVQa",
+        "recUJ4OLPFwZVSfRj",
+        "recI6S2gHOjthDPob",
+        "recyPUAAvd9MG9x0V",
+        "rec8sVGhrNsZYT7NG",
+        "recMyufo45abeYYkD",
+        "recpJ0QBNCH3XDvAZ",
+        "recpIvP80USWGYgn1",
+        "rec9upg4LWeLs2i0W",
+        "rec1oekc3SW5IkRxd",
+        "recJQOCZsvtRGuVWH",
+        "reck4EwRTcyTHJywB",
+        "recLfnDnVJAEwuuej",
+        "rec7wrr151RpB4z01",
+        "recflXUSz4JtsUfFw",
+        "recuXGLPXwAe2qsO0",
+        "recE1qHkhVTkicy8u",
+        "reckhjkmuKoI7yz9I",
+        "rec0RSvTl2x5kqfm9",
+        "recPFgurq9VhORc9Z",
+        "recyfWhYDdiGB6eL3",
+        "recoL3FdxdFpfdXRN",
+        "recu2CU7r3erl8HyV",
+        "recwxgbBuBC2GSXre",
+        "rec8yrjJDgSRjK6Wd",
+        "recWpmX52IuDzgDXL",
+        "rec2UgxWtljs2SZqw",
+        "recfn7nPJoeFs2NJW",
+        "recKWj617ytWPdj73",
+        "recTGlIrGFdm2Hgv4",
+        "rec21Kw4Kqso5PIR1",
+        "recWbPyqx97d1ZB9h",
+        "reccJHDvHSeiKQb08"
+      ],
+      "id": "recwwpAeDCa4PB9UD"
+    }
+  }
+]

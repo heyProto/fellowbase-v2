@@ -1,0 +1,184 @@
+<%= simple_form_for @event do |f| %>
+  <%= f.input :description, placeholder: "Event Description", input_html: {class: 'fellow-description-text'}, label: '<p class="fellow-lables">Description</p>'.html_safe, autofocus: true %>
+  <div class="ui sixteen grid">
+    <div class="eight wide column">
+      <div class="ui checkbox">
+        <%= f.input :is_confidential, as: :boolean, boolean_style: :inline, label: '<p class="fellow-lables">Is Confidential</p>'.html_safe %>
+      </div>
+    </div>
+    <div class="eight wide column">
+      <div class="ui checkbox">
+        <%= f.input :is_review_required, as: :boolean, boolean_style: :inline, label: '<p class="fellow-lables">Is Review Required</p>'.html_safe %>
+      </div><br /><br />
+    </div>
+  </div>
+  <%= f.input :notes, placeholder: "Event Notes", label: '<p class="fellow-lables">Notes</p>'.html_safe %>
+
+  <div class="ui calendar" id="event_date_calender">
+    <div class="ui input left icon">
+      <!-- <i class="calendar icon"></i> -->
+      <%= f.input :event_date, as: :string, placeholder: "Event Date", label: '<p class="fellow-lables">Event Date</p>'.html_safe %>
+    </div>
+  </div>
+  <br />
+
+  <div class="field string">
+    <label><p class="fellow-lables">Impacts</p></label>
+    <div name="event_ref_impacts" class="ui search multiple selection dropdown" id="event_ref_impacts">
+      <%= f.hidden_field :event_ref_impacts_list %>
+      <div class="default text">Impacts</div>
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <% @ref_impacts.each do |resource| %>
+          <div class="item" data-value=<%= resource.id %>><%= resource.name %></div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="field string">
+    <label><p class="fellow-lables">Projects</p></label>
+    <div name="event_projects" class="ui search multiple selection dropdown" id="event_projects">
+      <%= f.hidden_field :event_projects_list %>
+      <div class="default text">Projects</div>
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <% @projects.each do |resource| %>
+          <div class="item" data-value=<%= resource.id %>><%= resource.name %></div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="field string">
+    <label><p class="fellow-lables">Fellows</p></label>
+    <div name="event_fellows" class="ui search multiple selection dropdown" id="event_fellows">
+      <%= f.hidden_field :event_users_list %>
+      <div class="default text">Fellows</div>
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <% @fellows.each do |resource| %>
+          <div class="item" data-value=<%= resource.id %>><%= resource.name %></div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="field string">
+    <label><p class="fellow-lables">Countries</p></label>
+    <div name="event_ref_countries" class="ui search multiple selection dropdown" id="event_ref_countries">
+      <%= f.hidden_field :event_ref_countries_list %>
+      <div class="default text">Countries</div>
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <% @ref_countries.each do |resource| %>
+          <div class="item" data-value=<%= resource.id %>><%= resource.name %></div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="field string">
+    <label><p class="fellow-lables">Partners</p></label>
+    <div name="event_ref_partners" class="ui search multiple selection dropdown" id="event_ref_partners">
+      <%= f.hidden_field :event_ref_partners_list %>
+      <div class="default text">Partners</div>
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <% @ref_partners.each do |resource| %>
+          <div class="item" data-value=<%= resource.id %>><%= resource.name %></div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="field string">
+    <label><p class="fellow-lables">Digital Assets</p></label>
+    <div name="event_digital_assets" class="ui search multiple selection dropdown" id="event_digital_assets">
+      <%= f.hidden_field :event_digital_assets_list %>
+      <div class="default text">Digital Assets</div>
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <% @digital_assets.each do |resource| %>
+          <div class="item" data-value=<%= resource.id %>><%= resource.asset %></div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <%= f.simple_fields_for :event_digital_assets do |builder| %>
+    <%= render partial: "event_digital_assets/fields", locals: {f: builder} %>
+    <%# This div is what makes the form get added. Dont play with it. %>
+    <div id="links" style="display:none;">
+      <%= link_to_add_association "Add Digital Asset", f, :event_digital_assets, partial: "event_digital_assets/fields" %>
+    </div>
+  <% end %>
+
+  <%= f.button :submit %>
+  <div class="ui basic button" id="cancelEventFormButton"><a>Cancel</a></div>
+<% end %>
+
+
+
+<script type="text/javascript">
+ $(document).ready(function(){
+
+   $('#event_ref_impacts')
+     .dropdown('set selected', <%= @event.ref_impacts.pluck(:id).map{|a|a.to_s }.to_json.html_safe %>)
+   ;
+   $('#event_projects')
+     .dropdown('set selected', <%= @event.projects.pluck(:id).map{|a|a.to_s }.to_json.html_safe %>)
+   ;
+   $('#event_fellows')
+     .dropdown('set selected', <%= @event.users.fellows.pluck(:id).map{|a|a.to_s }.to_json.html_safe %>)
+   ;
+   $('#event_ref_countries')
+     .dropdown('set selected', <%= @event.ref_countries.pluck(:id).map{|a|a.to_s }.to_json.html_safe %>)
+   ;
+   $('#event_ref_partners')
+     .dropdown('set selected', <%= @event.ref_partners.pluck(:id).map{|a|a.to_s }.to_json.html_safe %>)
+   ;
+   $("#event_digital_assets")
+     .dropdown('set selected', <%= @event.digital_assets.pluck(:id).map{|a|a.to_s }.to_json.html_safe %>)
+   ;
+
+   // Regexp for link
+   a = /​^(https?:\/\/)(www\.)[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,4}\b([-a-zA-Z0-9@:%_\+.~#?&\/\/=]*)|^(https?:\/\/)(www\.)?(?!ww)[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,4}\b([-a-zA-Z0-9@:%_\+.~#?&\/\/=]*)/
+
+
+   $('.remove_fields.dynamic').click();
+   $('.remove_fields.existing').click();
+
+   var asset_to_add;
+   $("#event_digital_assets")
+     .dropdown({
+       allowAdditions: true,
+       fullTextSearch: true,
+       onAdd: function(addedValue, addedText, $addedChoice){
+         if(addedValue === addedText){
+           if (a.test(addedValue)){
+             asset_to_add = addedValue;
+             $('#links a').click();
+           } else {
+             alert("The added tag isnt a link. Please enter a link with http:// or https:// if not added");
+             preventDefault();
+           }
+         }
+       }
+     })
+
+   $('#new_event').on('cocoon:after-insert', function(event, element) {
+     element.find('input[placeholder="Asset"]').val(asset_to_add);
+   });
+   $('.edit_event').on('cocoon:after-insert', function(event, element) {
+     element.find('input[placeholder="Asset"]').val(asset_to_add);
+   });
+
+   $('#cancelEventFormButton').on('click', function(){
+     alertify.confirm("Please Confirm", "Are you sure you want to continue. Your data will not be saved.", function(){
+
+       window.location = "<%= events_path %>"
+     }, function () {})
+   });
+ });
+</script>

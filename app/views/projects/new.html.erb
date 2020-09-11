@@ -1,0 +1,42 @@
+<div class="ui three column centered grid fellow-top-padding">
+  <div class="column">
+    <h3><p>Add Project</p></h3>
+    <%= render partial: "form" %>
+  </div>
+</div>
+
+<script type="text/javascript">
+ $('#name_list')
+   .dropdown()
+ ;
+ $('#partner_list')
+   .dropdown()
+ ;
+ $('#cancelEventFormButton').on('click', function(){
+   var data = $('#new_project').serializeArray().reduce(function(obj, item) {
+     obj[item.name] = item.value;
+     return obj;
+   }, {});
+   if (checkData(data)){
+     alertify.confirm("Please Confirm", "Are you sure you want to continue. Your data will not be saved.", function(){
+
+       window.location = "<%= projects_path %>"
+
+     }, function () {})
+   } else {
+     window.location = "<%= projects_path %>"
+   }
+ });
+
+ // Code to check if a form has any values filled
+ function checkData(data) {
+   var count = 0;
+   for (variable in data)
+ 	 { if (!(variable === "utf8" || variable === "authenticity_token")) {
+	   if (!(data[variable] == "")){
+         return true;
+       }
+     }
+     }
+ };
+</script>

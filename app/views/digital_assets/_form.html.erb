@@ -1,0 +1,17 @@
+<%= simple_form_for @digital_asset do |f| %>
+  <%= f.input :asset, input_html: {placeholder: "Asset"}, label: '<p class="fellow-lables">Asset</p>'.html_safe, autofocus: true %>
+  <%= f.input :headline, input_html: {placeholder: "Headline"}, label: '<p class="fellow-lables">Headline</p>'.html_safe %>
+  <%= f.input :publication, input_html: {placeholder: "Publication"}, as: :string, label: '<p class="fellow-lables">Publication</p>'.html_safe %>
+
+  <div class="ui calendar" id="event_date_calender">
+    <div class="ui input left icon">
+      <!-- <i class="calendar icon"></i> -->
+      <%= f.input :publish_date, as: :string, placeholder:"Publish Date", label: '<p class="fellow-lables">Publish Date</p>'.html_safe %>
+    </div>
+  </div>
+  <br>
+
+  <%= f.input :post_type, collection: DigitalAsset::POST_TYPE_CONSTANTS, prompt: "Select a Post Type", label: '<p class="fellow-lables">Post Type</p>'.html_safe %>
+  <%= f.button :submit %>
+  <div class="ui basic button" id="cancelEventFormButton"><a>Cancel</a></div>
+<% end %>

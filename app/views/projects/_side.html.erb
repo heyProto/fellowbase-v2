@@ -1,0 +1,7 @@
+<div class="ui secondary vertical pointing menu">
+  <% if controller_name == "projects" %>
+    <% @projects.each do |project| %>
+      <%= link_to project.name.capitalize, project_path(project), class: "item #{project.id.to_s == params[:id] ? "active" : ""}" %>
+    <% end %>
+  <% end %>
+</div>

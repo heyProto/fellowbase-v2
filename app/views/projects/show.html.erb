@@ -1,0 +1,63 @@
+<div style="width: 100%; margin-left: auto; margin-right: auto;">
+  <div class="ui sixteen grid">
+    <div class="sixteen wide column">
+      <%= render partial: 'projects/projects' %>
+
+        <div class="row" style="text-align:center">
+          <%= link_to "Delete Project", @project, method: :delete, data: {confirm: "Are you sure"} %>
+        </div><br />
+        <div class="ui sixteen grid">
+          <div class="eight wide column">
+            <%= render partial: 'project_users/new', locals: {users: @users} %>
+            <div class="ui message" style="text-align: center">
+              <p><h3><%= pluralize(@project.users.count, "User") %> associated with <%= @project.name %></h3></p>
+            </div>
+            <table class="ui striped celled table">
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th></th>
+                </tr>
+              </thead>
+              <tbody>
+                <% @project.users.each do |user| %>
+                  <% project_user = ProjectUser.where(project_id: @project.id, user_id: user.id).first %>
+                  <tr>
+                    <td><%= user.name %></td>
+                    <td><%= link_to "Delete", project_user, method: :delete, data: {confirm: "Are you sure"} %></td>
+                  </tr>
+                <% end %>
+              </tbody>
+            </table>
+          </div>
+          
+          
+          <div class="eight wide column">
+            <%= render partial: 'project_ref_partners/new', locals: {partners: @partners} %>
+            <div class="ui message" style="text-align: center">
+              <p><h3><%= pluralize(@project.ref_partners.count, "Partner") %> associated with <%= @project.name %></h3></p>
+            </div>
+            <table class="ui striped celled table">
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th></th>
+                </tr>
+              </thead>
+              <tbody>
+                <% @project.ref_partners.each do |partner| %>
+                  <% project_partner = ProjectRefPartner.where(project_id: @project.id, ref_partner_id: partner.id).first %>
+                  <tr>
+                    <td><%= partner.name %></td>
+                    <td><%= link_to "Delete", project_partner, method: :delete, data: {confirm: "Are you sure"} %></td>
+                  </tr>
+              <% end %>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,49 @@
+<div class="ui three column centered grid fellow-top-padding">
+  <div class="column">
+    <h3><p>Add Impact</p></h3>
+
+    <%= simple_form_for([:admin, @ref_impact]) do |form| %>
+      <%= form.input :name, placeholder: "Impact Name", label: '<p class="fellow-lables">Impact Name</p>'.html_safe, autofocus: true %>
+      <%= form.input :genre, collection: RefImpact::GENRES_CONSTANTS, include_blank: true, label: '<p class="fellow-lables">Genre</p>'.html_safe %>
+      <%= form.button :submit, "Create Impact" %>
+      <div class="ui basic button" id="cancelEventFormButton"><a>Cancel</a></div>
+    <% end %>
+  </div>
+</div>
+
+
+
+<script type="text/javascript">
+ $(document).ready(function(){
+
+   $('#cancelEventFormButton').on('click', function(){
+     var data = $('#new_ref_impact').serializeArray().reduce(function(obj, item) {
+       obj[item.name] = item.value;
+       return obj;
+     }, {});
+     if (checkData(data)){
+       alertify.confirm("Please Confirm", "Are you sure you want to continue. Your data will not be saved.", function(){
+
+         window.location = "<%= admin_ref_impacts_path %>"
+
+       }, function () {})
+     } else {
+       window.location = "<%= admin_ref_impacts_path %>"
+     }
+   });
+
+   // Code to check if a form has any values filled
+   function checkData(data) {
+     var count = 0;
+     for (variable in data)
+ 	   { if (!(variable === "utf8" || variable === "authenticity_token")) {
+	     if (!(data[variable] == "")){
+           return true;
+         }
+       }
+       }
+   };
+
+ });
+
+</script>

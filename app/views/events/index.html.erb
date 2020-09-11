@@ -1,0 +1,86 @@
+<div class="ui sixteen grid">
+  <div class="sixteen wide column fellow-column-without-bottom-padding">
+    <%= render partial: 'projects/projects' %>
+  </div>
+
+  <div class="sixteen wide column fellow-column-without-top-padding">
+    <div style="overflow:auto;">
+      <table class="ui celled selectable table">
+        <thead>
+          <tr>
+            <th></th>
+            <th></th>
+            <th class="single line">Description</th>
+            <th class="single line">Confidential</th>
+            <th class="single line">Review Required</th>
+            <th class="single line">Event Date</th>
+            <th class="single line">Notes</th>
+            <th class="single line">Impacts</th>
+            <th class="single line">Projects</th>
+            <th class="single line">Fellows</th>
+            <th class="single line">Countries</th>
+            <th class="single line">Partners</th>
+            <th class="single line">Digital Assets</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% @events.each do |a| %>
+            <tr>
+              <td><%= link_to '<i class="trash icon"></i>'.html_safe, a, method: :delete, data: {confirm: "Are you sure?"}%></td>
+              <td><%= link_to '<i class="edit icon"></i>'.html_safe, edit_event_path(a)%></td>
+              <td><%= link_to a.description, event_path(a) %></td>
+              <td>
+                <center>
+                  <%= best_in_place a, :is_confidential, as: :checkbox, collection: {false: '<i class="large remove icon"></i>'.html_safe, true: '<i class="large checkmark icon"></i>'.html_safe} %>
+                </center>
+                <%# if a.is_confidential %>
+                <!-- <center>
+                     <i class="large black checkmark icon"></i>
+                     </center> -->
+                <%# end %>
+              </td>
+              <td>
+                <center>
+                  <%= best_in_place a, :is_review_required, as: :checkbox, collection: {false: '<i class="large remove icon"></i>'.html_safe, true: '<i class="large checkmark icon"></i>'.html_safe} %>
+                </center>
+              </td>
+              <td><%= a.event_date %></td>
+              <td><%= a.notes %></td>
+              <td>
+                <% a.ref_impacts.each do |resource| %>
+                  <div class="ui label"><%= resource.name %></div>
+                <% end %>
+              </td>
+              <td>
+                <% a.projects.each do |resource| %>
+                  <div class="ui label"><%= resource.name %></div>
+                <% end %>
+              </td>
+              <td>
+                <% a.users.fellows.each do |resource| %>
+                  <div class="ui label"><%= resource.name %></div>
+                <% end %>
+              </td>
+              <td>
+                <% a.ref_countries.each do |resource| %>
+                  <div class="ui label"><%= resource.name %></div>
+                <% end %>
+              </td>
+              <td>
+                <% a.ref_partners.each do |resource| %>
+                  <div class="ui label"><%= resource.name %></div>
+                <% end %>
+              </td>
+              <td>
+                <% a.digital_assets.each do |resource| %>
+                  <div class="ui label"><%= link_to resource.asset, resource.asset, target: :_blank %></div>
+                <% end %>
+              </td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+

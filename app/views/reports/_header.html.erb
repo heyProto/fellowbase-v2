@@ -1,0 +1,19 @@
+<div class="ui tabular menu fellow-tabular-menu">
+  <%= link_to "All", all_digital_asset_path, class: "item #{action_name == "all" ? "active" : "fellow-tab"} " %>
+  <%= link_to "Errored", errored_digital_asset_path, class: "item #{action_name == "errored" ? "active" : "fellow-tab"} " %>
+  <%= link_to "Successful", successful_digital_asset_path, class: "item #{action_name == "successful" ? "active" : "fellow-tab"} " %>
+  <%= link_to "With no Data", digital_asset_with_no_data_path, class: "item #{action_name == "with_no_data" ? "active" : "fellow-tab"} " %>
+
+
+  <div class="right menu">
+    <%= search_form_for q, url: digital_asset_search_path, html: { method: :get, class: "ui form" } do |f| %>
+      <div class="item">
+          <%= f.search_field :asset_cont, class: "ui input", placeholder: "Asset Contains", required: true %><br><br>
+          <%= f.submit "Search", class: "ui blue basic button item" %>
+          <% if action_name == 'search' %>
+            <%= link_to "Reset", all_digital_asset_path, class: 'ui basic button item' %>
+          <% end %>
+      </div>
+    <% end %>
+  </div>
+</div>

@@ -1,0 +1,43 @@
+<div class="ui sixteen grid">
+  <div class="sixteen wide column fellow-column-without-bottom-padding">
+    <%= render partial: 'projects/projects' %>
+  </div>
+  <div class="sixteen wide column fellow-column-without-top-padding">
+    <table class="ui celled selectable table">
+      <thead>
+        <tr>
+          <th></th>
+          <th></th>
+          <th class="single line">Name</th>
+          <th class="single line">Fellows</th>
+          <th class="single line">Partners</th>
+          <th class="single line">Created At</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% @projects.each do |project| %>
+          <tr>
+            <td><%= link_to '<i class="trash icon"></i>'.html_safe, project, method: :delete, data: {confirm: "Are you sure?"}%></td>
+            <td><%= link_to '<i class="edit icon"></i>'.html_safe, edit_project_path(project) %></td>
+            <td><%= project.name %></td>
+
+            <td>
+              <% project.users.fellows.each do |resource| %>
+                <div class="ui label"><%= resource.name %></div>
+              <% end %>
+            </td>
+            <td>
+              <% project.ref_partners.each do |resource| %>
+                <div class="ui label"><%= resource.name %></div>
+              <% end %>
+            </td>
+            <td><%= distance_of_time_in_words(project.created_at, Time.now) + " ago" %></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+

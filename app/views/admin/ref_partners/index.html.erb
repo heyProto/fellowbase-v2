@@ -1,0 +1,32 @@
+<div class="ui sixteen grid">
+  <div class="sixteen wide column fellow-column-without-bottom-padding">
+    <%= render partial: 'admins/header' %>
+  </div>
+  <%#= render partial: 'new' %>
+
+  <div class="sixteen wide column fellow-column-without-top-padding">
+    <table class="ui celled selectable table">
+      <thead>
+        <tr>
+          <th></th>
+          <th>Name</th>
+          <th>Country</th>
+          <th>Created by</th>
+          <th>Updated by</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% @ref_partners.each do |partner| %>
+          <tr>
+            <td><%= link_to '<i class="trash icon"></i>'.html_safe, admin_ref_partner_path(partner), method: :delete, data: {confirm: "Are you sure?"} %></td>
+            <td><%= best_in_place partner, :name, url: admin_ref_partner_path(partner) %></td>
+            <td><%= best_in_place partner, :ref_country_id, as: :select, collection: @ref_countries.pluck(:id, :name).insert(0, ["", "None"]).sort_by {|k| k[1]}, url: admin_ref_partner_path(partner), include_blank: "Select a Country" %></td>
+            <td><%= partner.creator.email %></td>
+            <td><%= partner.updater.email %></td>
+
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>

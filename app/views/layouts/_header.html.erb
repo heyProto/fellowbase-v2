@@ -1,0 +1,25 @@
+<% if user_signed_in? %>
+  <div class="ui inverted segment fellow-navbar-parent">
+    <div class="ui inverted secondary menu">
+      <%= link_to "FellowBase", root_url, class: "item" %>
+      <div class="right menu">
+        <div class="ui dropdown item">
+          <%= image_tag(current_user.gravatar_image, class: "ui avatar image") %>
+          <div class="menu">
+            <%= link_to '<i class="edit icon"></i> Edit Profile'.html_safe, edit_user_registration_path(current_user), class: "item" %>
+            <% if current_user.is_admin? %>
+              <%= link_to '<i class="table icon"></i> Reference Tables'.html_safe, admin_users_path, class: "item" %>
+            <% end %>
+            <%= link_to '<i class="sign out icon"></i> Sign out'.html_safe, destroy_user_session_path, method: :delete, class: "item" %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<% else %>
+  <div class="ui inverted segment  fellow-navbar-parent">
+    <div class="ui inverted secondary menu">
+      <%= link_to "FellowBase", root_url, class: "item" %>
+    </div>
+  </div>
+<% end %>

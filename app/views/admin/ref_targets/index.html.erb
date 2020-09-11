@@ -1,0 +1,24 @@
+<div class="ui sixteen grid">
+  <div class="sixteen wide column fellow-column-without-bottom-padding">
+    <%= render partial: 'admins/header' %>
+  </div>
+  <%#= render partial: 'new' %>
+  <div class="sixteen wide column fellow-column-without-top-padding">
+    <table class="ui celled selectable table">
+      <thead>
+        <tr>
+          <th></th>
+          <th>Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% @ref_targets.each do |target| %>
+          <tr>
+            <td><%= link_to '<i class="trash icon"></i>'.html_safe, admin_ref_target_path(target), method: :delete, data: {confirm: "Are you sure?"} %></td>
+            <td><%= best_in_place target, :name, url: admin_ref_target_path(target) %></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>

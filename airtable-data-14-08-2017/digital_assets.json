@@ -1,0 +1,4069 @@
+[
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.milenio.com/politica/Llaman-tomar-medidas-posible-espionaje-milenio-noticias-monterrey_0_979102423.html",
+      "id": "rec061YRbsgahBmDe"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/mateofowler/status/877019582162128900",
+      "id": "rec0AikJ69CNJU5u8"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://urdu.geo.tv/assets/special/sbp/sbp1.html",
+      "publication": "Geo TV",
+      "date": "2017-06-19",
+      "headline": "State Bank of Pakistan Museum and Art Gallery",
+      "post_type": "Journalism produced",
+      "events": [
+        "recLkjOchbPaa8nv1"
+      ],
+      "id": "rec0C9zZf34AZYe2B"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/geonews_urdu/status/710105097611681794",
+      "publication": "Geo",
+      "headline": "Geo Periscope 5",
+      "post_type": "Journalism produced",
+      "events": [
+        "reck4EwRTcyTHJywB"
+      ],
+      "id": "rec0RvPF0d5o3Ge3v"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://comunica2.webs.upv.es/ponencias/exitos-y-fracasos-tendencias-en-nuevos-emprendimientos-digitales/",
+      "date": "2017-02-17",
+      "headline": "Successes and failures: Trends in new digital ventures",
+      "events": [
+        "recdhYNCk6JNHahVZ"
+      ],
+      "id": "rec0ZMUiHHcHv1fd5"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.puroperiodismo.cl/?p=27823",
+      "publication": "PurePeriodismo.cl",
+      "date": "2016-12-26",
+      "headline": "Janine Warner: \"Journalists can not be ignorant of the business model\"",
+      "post_type": "Story about work",
+      "events": [
+        "rec6b8e2JjeQ4u4WU"
+      ],
+      "id": "rec0cMjWuyLwoS794"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.periodicoelmexicano.com.mx/local/aconseja-consultora-como-manejar-las-redes-sociales",
+      "publication": "El Mexicano",
+      "date": "2017-03-10",
+      "headline": "Advises consultant how to handle social networks",
+      "post_type": "Story about work",
+      "events": [
+        "rec1PVI1sre3e2WQ6"
+      ],
+      "id": "rec0tClnRjkmyNSRR"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.geo.tv/news360/a-360-look-at-karachis-private-ambulances",
+      "publication": "Geo",
+      "date": "2017-03-09",
+      "headline": "A 360 look at Karachi’s private ambulances",
+      "post_type": "Journalism produced",
+      "id": "rec1NYIh9JiaIqCbw"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.youtube.com/watch?v=_40dbsmWJJg",
+      "date": "2017-02-28",
+      "headline": "Trends in New Digital Entrepreneurs with Janine Warner - Comunica2",
+      "events": [
+        "recdhYNCk6JNHahVZ"
+      ],
+      "id": "rec1dTOL2RUbBIFwh"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://vimeo.com/196346190",
+      "date": "2016-12-19",
+      "headline": "Encuentro SembraMedia y News Lab en Google Argentina",
+      "events": [
+        "recTGlIrGFdm2Hgv4"
+      ],
+      "id": "rec1gUW19k2jk8r2O"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/pm-modi-should-do-more-than-just-giving-token-slogans-like-beti-khilao-4718395/",
+      "publication": "Indian Express",
+      "date": "2017-06-23",
+      "headline": "PM Modi should do more than just giving token slogans like ‘Beti Khilao’",
+      "post_type": "Journalism produced",
+      "events": [
+        "recjknQouAp7xlM35"
+      ],
+      "id": "rec1m2gXCLYinvvLT"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/worldimmunisationweek-gujarat-holds-one-of-indias-worst-immunisation-records-97328",
+      "publication": "India Spend",
+      "date": "2017-04-28",
+      "headline": "#WorldImmunisationWeek: Gujarat Holds One of India’s Worst Immunisation Records",
+      "post_type": "Journalism produced",
+      "events": [
+        "recBLx82PAL401dVI"
+      ],
+      "id": "rec2DEjn0itc4kQyi"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.geo.tv/special/sbp/",
+      "publication": "Geo TV",
+      "date": "2017-06-19",
+      "headline": "State Bank of Pakistan Museum and Art Gallery",
+      "post_type": "Journalism produced",
+      "events": [
+        "recbPOGdQtQrTJKM7"
+      ],
+      "id": "rec2H5EdD1yyaoNZQ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://youtu.be/ZGDBtSHz0vY",
+      "date": "2016-12-16",
+      "headline": "Seminario web 'Periodismo Emprendedor: cómo monetizar proyectos de contenidos para la web'",
+      "events": [
+        "reciynSUDkgJzmIha"
+      ],
+      "id": "rec2KgXf2DG7qCe9A"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.onlymyhealth.com/these-yogasanas-are-boon-for-every-age-practice-regularly-in-hindi-1497964898",
+      "publication": "Dainik Jagran",
+      "date": "2017-06-21",
+      "headline": "These yogasanas are a boon for every age (Hindi)",
+      "post_type": "Journalism produced",
+      "id": "rec2OPr8Gc3jsN7V1"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/HacksHackersPakistan/photos/a.1574365692827461.1073741829.1521393134791384/1892010091063018/?type=3&theater",
+      "date": "2017-07-12",
+      "post_type": "Announcement",
+      "events": [
+        "recyp0C9TCQnSBguy"
+      ],
+      "id": "rec2bwVr48mE8zOJa"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/geonews_english/status/710084183968845824",
+      "publication": "Geo",
+      "headline": "Geo Periscope 4",
+      "post_type": "Journalism produced",
+      "events": [
+        "reck4EwRTcyTHJywB"
+      ],
+      "id": "rec2cwRUjaCdX9wBm"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/unwomenindia/status/874876612977840130",
+      "id": "rec2eKYsREFblg90y"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/elections/uttar-pradesh-assembly-elections-2017/mayawati-aparna-yadav-dimple-yadav-sheila-dikshit-uttar-pradesh-elections-2017-patriarchal-narratives-key-to-survival-for-indian-women-politicians-4558732/",
+      "id": "rec2mOVnXrP4ILIJB"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/usdos.ciudadjuarez/photos/a.96948763780.86206.84157668780/10155101298188781/?type=3",
+      "date": "2017-03-14",
+      "post_type": "Announcement",
+      "events": [
+        "rece0acYMwfbofPrp"
+      ],
+      "id": "rec3dFaTwO5V5O5ey"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.mcallen-es.periodistasenriesgo.com/",
+      "publication": "Periodistas en Riesgo",
+      "headline": "McAllen Seguridad Para Periodistas de la Frontera",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec2urhHveGtZoQ3k"
+      ],
+      "id": "rec50o9esmu4yY5OD"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/permalink.php?story_fbid=1643764085942491&id=100009267478788",
+      "publication": "Hindustan Times",
+      "headline": "Prashant Jha ",
+      "post_type": "Journalism produced",
+      "events": [
+        "recTjXaG0PVTb9f1t"
+      ],
+      "id": "rec540rp2L0MAaZo4"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.thinglink.com/scene/840607149145980930",
+      "publication": "Hindustan Times Mumbai",
+      "date": "2016-10-13",
+      "headline": "On Track: A Facelift for Mumbai's CST",
+      "post_type": "Journalism produced",
+      "events": [
+        "recwxQNmX3cF7lRZ7"
+      ],
+      "id": "rec5U2Rk8ACoE7KTI"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/IndiaSpend/status/850225970309062658",
+      "id": "rec5YoMSPjFEm582D"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.newslaundry.com/2017/03/08/women-in-the-newsroom-let-there-be-more-solidarity",
+      "publication": "NewsLaundry",
+      "date": "2017-03-08",
+      "headline": "Women In The Newsroom: ‘Let There Be More Solidarity’",
+      "post_type": "Journalism produced",
+      "id": "rec5YzzCQMd8qDqaY"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://knightcenter.utexas.edu/blog/00-18306-isoj-2017-news-startups-and-new-business-models-innovate-search-sustainability",
+      "date": "2017-04-27",
+      "events": [
+        "rec1JGlGdPxWsAWY5"
+      ],
+      "id": "rec5s06Bm46T0zMb8"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.860noticias.com.mx/jrz/manejo-de-redes-en-ong-les-permitira-mayor-alcance-y-beneficios-fechac/",
+      "publication": "860 Noticias",
+      "date": "2017-03-09",
+      "headline": "Managing networks in NGOs will allow them greater scope and benefits: Fechac",
+      "post_type": "Story about work",
+      "events": [
+        "rec1PVI1sre3e2WQ6"
+      ],
+      "id": "rec6ZRUbCXHcXWaWP"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/99-38-indians-now-live-in-areas-under-cow-protection-laws-42787",
+      "publication": "India Spend ",
+      "date": "2017-04-14",
+      "headline": "99.38% Indians Now Live In Areas Under Cow-Protection Laws",
+      "post_type": "Journalism produced",
+      "events": [
+        "recaMhlUIrW9ElQpo"
+      ],
+      "id": "rec7cfPQzN7TZ35nW"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.jagran.com/lifestyle/miscellaneous-smoking-can-damage-your-health-16113682.html?src=Search-ART-notobacco",
+      "id": "rec7nO5m436XIuQGo"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/delhi/meet-tasmida-the-first-rohingya-girl-to-take-class-x-board-exam-in-india-4683605/",
+      "publication": "Indian Express",
+      "date": "2017-06-01",
+      "headline": "Meet Tasmida, the first Rohingya girl to take Class X exams in India",
+      "post_type": "Journalism produced",
+      "events": [
+        "recWbPyqx97d1ZB9h"
+      ],
+      "id": "rec7ssN6zD4Fe4w9V"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/ojo-publico-caso-de-estudio/",
+      "date": "2017-04-01",
+      "events": [
+        "recawvRrHXhUSi6Xq"
+      ],
+      "id": "rec8CI3nTJ24FeCQZ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/casos-de-crowdfunding/",
+      "date": "2017-04-01",
+      "events": [
+        "rec0PaSOpXVG99Aj0"
+      ],
+      "id": "rec8KJRqO0HrFgA14"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/aprendizajes-del-foro-de-medios-digitales-y-periodismo/",
+      "publication": "SembraMedia blog",
+      "date": "2016-10-26",
+      "headline": "Learnings from the Forum of Digital Media and Journalism",
+      "events": [
+        "rec52vcQNZqEmD6v1"
+      ],
+      "id": "rec8Q34OQ4ECVUe57"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://revistantitesis.com/2017/03/la-travesia-del-estudiante-afgano/",
+      "publication": "Revista Antítesis",
+      "date": "2017-03-14",
+      "post_type": "Journalism produced",
+      "events": [
+        "recvKBr0MPmJgCcII"
+      ],
+      "id": "rec8bovdIYwZvLZ0z"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/why-did-a-young-woman-join-a-rashtra-sevika-samiti-camp/",
+      "publication": "Indian Express",
+      "date": "2017-06-27",
+      "headline": "Why did a young woman join a Rashtra Sevika Samiti camp?",
+      "post_type": "Journalism produced",
+      "events": [
+        "recC8Dyh4wlhZ7nSh"
+      ],
+      "id": "rec8fba87P2cGutBx"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/notebandi-impact-bank-deposits-exceed-withdrawals-by-nearly-5-times-78339",
+      "publication": "IndiaSpend",
+      "date": "2016-11-21",
+      "headline": " #Notebandi Impact: Bank Deposits Exceed Withdrawals By Nearly 5 Times",
+      "post_type": "Journalism produced",
+      "events": [
+        "recJugfukCZSCR0xo"
+      ],
+      "id": "rec91KG68POCnmFFO"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/seis-reglas-cualquier-periodista-saber-uso-imagenes/",
+      "publication": "SembraMedia blog",
+      "date": "2017-05-15",
+      "headline": "Six rules that any journalist should know about using images",
+      "events": [
+        "recrVzLnKd4qffUbd"
+      ],
+      "id": "rec98hidxtEUZq5nl"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://journalists.org/awards/2016-awards/",
+      "publication": "ONA",
+      "headline": "2016 ONA awards shortlist",
+      "post_type": "Journalism produced",
+      "events": [
+        "recenf5Z2L86gtZsp"
+      ],
+      "id": "rec9KiY7O9Ym2RTr9"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.thinglink.com/scene/702906425822674945",
+      "publication": "Hindustan Times Mumbai",
+      "date": "2017-01-13",
+      "headline": "Angelina Jolie  to adopt Syrian orphan by Nibandh Vinod",
+      "post_type": "Journalism produced",
+      "events": [
+        "recwxQNmX3cF7lRZ7"
+      ],
+      "id": "rec9PZNslbpeW5swB"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/GeoUrduDotTv/videos/vb.111331428916358/1012662582116567/?type=2&theater",
+      "publication": "Geo",
+      "headline": "We are live with Amin Hafeez from Badshahi Mosque in Lahore!",
+      "post_type": "Journalism produced",
+      "events": [
+        "recuXGLPXwAe2qsO0"
+      ],
+      "id": "rec9sFACrtFNdiA6w"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://ona16.journalists.org/speaker/shaheryar-popalzai/",
+      "events": [
+        "recKJIhTNfRmnzVci"
+      ],
+      "id": "rec9zzFTUqEcVWuim"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.onlymyhealth.com/topic/yoga-day",
+      "id": "recA2JP8TapHfpmUA"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/either-we-are-a-sex-worker-or-a-goddess-transpeople-cant-have-regular-professions/",
+      "publication": "Indian Express",
+      "date": "2017-06-20",
+      "headline": "‘Either we are a sex-worker or a goddess… Transpeople can’t have regular professions’",
+      "post_type": "Journalism produced",
+      "events": [
+        "recMzfQi3jbSucH7v"
+      ],
+      "id": "recAcjuBV2NVEcHVj"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/geonews_english/status/710041085427519488",
+      "publication": "Geo",
+      "headline": "Geo Periscope 1",
+      "post_type": "Journalism produced",
+      "events": [
+        "reck4EwRTcyTHJywB"
+      ],
+      "id": "recAnaDXsZesjXpcV"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://revistantitesis.com/2017/03/a-su-manera/",
+      "publication": "Revista Antítesis",
+      "date": "2017-03-14",
+      "post_type": "Journalism produced",
+      "events": [
+        "recvKBr0MPmJgCcII"
+      ],
+      "id": "recBQVwcBsW49rXKw"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://m.facebook.com/story.php?story_fbid=1023428431039982&id=111331428916358",
+      "publication": "Geo",
+      "headline": "We are live from the Youm-e-Ali procession in Karachi",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec0RSvTl2x5kqfm9"
+      ],
+      "id": "recBWo51qqjtzGKKW"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/growth-inequality-is-emptying-out-entire-villages-in-indias-sixth-richest-state-18270",
+      "id": "recBZXJTtHOHBO1us"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/corporate-india-isnt-as-much-sexist-as-its-lazy-gender-issue-4711887/",
+      "publication": "Indian Express",
+      "date": "2017-06-19",
+      "headline": "Corporate India isn’t as much sexist as it’s lazy",
+      "post_type": "Journalism produced",
+      "events": [
+        "rechgENht4GEfswV2"
+      ],
+      "id": "recBlpoW8GRzfxrw1"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/cities/delhi/mcd-elections-delhi-for-women-4622465/",
+      "id": "recBogsZULKA2MLXN"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://uploads.knightlab.com/storymapjs/ddcdbe45fa2efa84ada859d55be73619/mumbai-dirty-secret-out-in-the-open/draft.html",
+      "id": "recCELIcNfo5T88KU"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/las-cinco-secciones-mas-visitadas-de-sembramedia-org/",
+      "publication": "SembraMedia blog",
+      "date": "2016-12-23",
+      "headline": "The most visited sections of SembraMedia.org",
+      "events": [
+        "recSnBLUf0dKt7k1r"
+      ],
+      "id": "recCIKm5pRh7VBkOl"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.onlymyhealth.com/what-happens-when-you-go-to-the-doctor-in-hindi-1491482545",
+      "date": "2017-04-06",
+      "headline": "जब आप जाते हैं डॉक्टर के पास तो क्या होता है? (Not a direct translation but this story is about understanding vital signs and asking the right questions.)",
+      "events": [
+        "recP3Aw95fkbk2Tn9"
+      ],
+      "id": "recCbD4NnMTBuUexJ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/IndiaSpend/videos/1381685735247795/?hc_ref=NEWSFEED",
+      "id": "recCj2rfbvgDUCOjC"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/elections/uttar-pradesh-assembly-elections-2017/mayawati-aparna-yadav-dimple-yadav-sheila-dikshit-uttar-pradesh-elections-2017-patriarchal-narratives-key-to-survival-for-indian-women-politicians-4558732/",
+      "publication": "Indian Express",
+      "date": "2017-03-07",
+      "headline": "Patriarchal narratives key to survival for Indian women politicians?",
+      "post_type": "Journalism produced",
+      "id": "recDDtYDVPHxp5VR2"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.thinglink.com/scene/701444085440839680",
+      "publication": "Hindustan Times Mumbai",
+      "date": "2016-01-13",
+      "headline": "Brazilian supermodel Gisele Bundchen has been named the world's highest paid model",
+      "post_type": "Journalism produced",
+      "events": [
+        "recwxQNmX3cF7lRZ7"
+      ],
+      "id": "recDWXizrcjPjOake"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://elcachanilla.com/post/157959837514/consulado-de-eua-y-cetys-impulsan-el-periodismo",
+      "date": "2017-03-03",
+      "headline": "US Consulate and CETYS Drive Entrepreneurial Journalism",
+      "post_type": "Story about work",
+      "events": [
+        "recxGyYPboTfeam9V",
+        "recDrPbfXbzUaPQWF"
+      ],
+      "id": "recDWzCVQkLJHjb3t"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.geo.tv/special/sbp/",
+      "id": "recDn8i1RdAKe3gtO"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://assets.documentcloud.org/documents/3761677/IRE-Journal-2nd-Quarter-2017.pdf",
+      "id": "recDzIhuy9fNTgumh"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.moneycontrol.com/news/world/uk-polls-on-likely-scenario-when-may-may-not-be-sectors-that-indians-could-avoid-2300845.html",
+      "id": "recEEF8rHfCSTCu9N"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://medium.com/hacks-hackers-pakistan/announcing-hacks-hackers-pakistan-news-innovation-camp-4fc1bb6723f9",
+      "id": "recEfR6wulqjXNyD2"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.moneycontrol.com/news/trends/current-affairs-trends/icse-results-2017-how-to-check-your-class-10-exam-results-on-cisce-org-2279063.html",
+      "id": "recEnaQm91NUIR8XH"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/indianexpress/posts/10155445193853826?match=aW5kaWFuIGV4cHJlc3MsYnJvIGNvZGUsaW5kaWFu",
+      "publication": "Indian Express",
+      "date": "2017-06-02",
+      "headline": "Three lead comic artists tear apart the ‘bro-code’ in Indian comic scene",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec1Ep4u5rWvsgKFY"
+      ],
+      "id": "recF9zx3MGBND43Fk"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/govt-must-provide-alternatives-not-treat-visually-impaired-like-bechaari-women4716539/",
+      "publication": "Indian Express",
+      "date": "2017-06-22",
+      "headline": "‘Govt must provide alternatives, not treat visually impaired like bechaari women’",
+      "post_type": "Journalism produced",
+      "events": [
+        "recR4Y5exOFLzXMh9"
+      ],
+      "id": "recFcNMQjX8LBSTHi"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/finalizo-el-primer-mooc-de-sembramedia/",
+      "publication": "SembraMedia blog",
+      "date": "2016-11-30",
+      "headline": "SembraMedia's first MOOC ended",
+      "events": [
+        "rec8OYbw7wMqFPoVp"
+      ],
+      "id": "recFfvrlanKmn9TIN"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/events/935114416629388",
+      "id": "recFrkuWvb44p9Vpe"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.hindustantimes.com/assembly-elections/up-election-how-little-development-in-pihani-tells-of-a-parallel-story-in-uttar-pradesh/story-blKTNPdytw2SYVPYOLk0EP.html",
+      "id": "recGATLLYhtFczLQ8"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.onlymyhealth.com/practicing-these-five-yoga-poses-can-be-a-boon-for-your-mind-body-and-soul-1497963589",
+      "id": "recGaXTS52T5xq3Om"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://revistantitesis.com/2017/03/mazzieri-captor-del-presente/",
+      "publication": "Revista Antítesis",
+      "date": "2017-03-14",
+      "post_type": "Journalism produced",
+      "events": [
+        "recvKBr0MPmJgCcII"
+      ],
+      "id": "recHBJSXeqGDIEy6h"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.jagran.com/miscellaneous/four-steps-to-helping-a-smoker-quit-16109446.html?src=articleREL",
+      "id": "recHJliF0xx6tehZZ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://mx.usembassy.gov/digital-journalism-workshops-tijuana-mexicali/",
+      "date": "2017-02-28",
+      "headline": "Digital Journalism Workshops in Tijuana and Mexicali",
+      "events": [
+        "recDrPbfXbzUaPQWF",
+        "recxGyYPboTfeam9V"
+      ],
+      "id": "recI2tVBo2cjxnrO6"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/why-are-women-made-to-carry-excreta-on-their-head-for-two-stale-rotis-a-day/",
+      "publication": "Indian Express",
+      "date": "2017-06-13",
+      "headline": "Manual scavenging in Meerut: Why are women made to carry excreta on their head for two stale rotis a day?",
+      "post_type": "Journalism produced",
+      "events": [
+        "recXbLGflQkCn2ZDH"
+      ],
+      "id": "recI7U1zNAT4SmOuv"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.eluniversal.com.mx/articulo/estados/2017/03/1/entrenan-periodistas-de-eu-y-mexico-en-coberturas-de-riesgo#.WLhiRQ_WHYo.twitter",
+      "publication": "El Universal",
+      "date": "2017-03-03",
+      "headline": "Este material cuenta con derechos de propiedad intelectual. De no existir previa autorización por escrito de EL UNIVERSAL, Compañía Periodística Nacional S. A. de C. V., queda expresamente prohibida la publicación, retransmisión, distribución, venta, edición y cualquier otro uso de los contenidos (Incluyendo, pero no limitado a, contenido, texto, fotografías, audios, videos y logotipos). Si desea hacer uso de este contenido por favor comuníquese a la Agencia de Noticias de El Universal, al 57091313 extensión 2425. Muchas gracias.",
+      "post_type": "Journalism produced",
+      "id": "recIKZN975xY7Fp9U"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://medium.com/editors-lab-impact/gender-equality-calls-for-a-hackathon-in-bengaluru-de84b5e19ce1",
+      "id": "recIgtf8GlYRazcJA"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.jagran.com/miscellaneous/ten-bollywood-stars-who-were-once-heavy-smoker-amazingly-have-quit-smoking-16109105.html?src=articleREL",
+      "id": "recJEUm6v5eBo07s8"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/OldWonk/status/850233936361816065",
+      "id": "recJPvS3wJ1SQhUQh"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.moneycontrol.com/news/india/cbse-board-12th-result-2017-declared-noidas-raksha-gopal-tops-exam-check-on-cbseresults-nic-in-2287155.html",
+      "id": "recJVKP8FuAPAjMbW"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/growth-inequality-is-emptying-out-entire-villages-in-indias-sixth-richest-state-18270",
+      "publication": "IndiaSpend",
+      "date": "2017-03-10",
+      "headline": "Growth Inequality Is Emptying Out Entire Villages In India’s Sixth Richest State",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec8EOeXQfPFsDJhP"
+      ],
+      "id": "recJb5LkI8XVFz45p"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://revistantitesis.com/2017/03/cuando-la-tierra-arde/",
+      "publication": "Revista Antítesis",
+      "date": "2017-03-13",
+      "post_type": "Journalism produced",
+      "events": [
+        "recvKBr0MPmJgCcII"
+      ],
+      "id": "recJv8iv2HwxgvUzc"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/el-directorio-de-sembramedia-muchas-ventajas-para-ti-y-tu-medio/",
+      "publication": "SembraMedia blog",
+      "date": "2016-11-02",
+      "headline": "The SembraMedia directory: many advantages for you and your environment!",
+      "events": [
+        "rec0URcKbFQXPHHYr"
+      ],
+      "id": "recKgpLn5LtQZPWv7"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://eticasegura.fnpi.org/2016/12/15/monetizar-proyectos-contenidos-digitales-seminario-web/",
+      "publication": "FNPI",
+      "date": "2016-12-15",
+      "headline": "How to monetize digital content projects | Webinar",
+      "post_type": "Announcement",
+      "events": [
+        "reciynSUDkgJzmIha"
+      ],
+      "id": "recKwd5FhzKQqMLts"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.youtube.com/watch?v=v0pIJlygtmg",
+      "date": "2017-01-31",
+      "headline": "¿Que es un modelo de negocio?",
+      "events": [
+        "recOelYlqUuuKE43Y"
+      ],
+      "id": "recL6AAKhDhBYTvsR"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/Pri_Borpujari/status/850206696874037248",
+      "id": "recLKQR8S2R6Jx4wf"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/new-model-of-tracking-tb-patients-holds-promise-for-india-20592",
+      "publication": "IndiaSpend",
+      "date": "2016-10-22",
+      "headline": " New Model Of Tracking TB Patients Holds Promise For India",
+      "post_type": "Journalism produced",
+      "events": [
+        "recoL3FdxdFpfdXRN"
+      ],
+      "id": "recLWD07ic1LsvCvq"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.icfj.org/blogs/how-pakistan%E2%80%99s-express-tribune-reported-its-biggest-online-project",
+      "publication": "ICFJ",
+      "headline": "How Pakistan’s Express Tribune reported its biggest online project",
+      "post_type": "Journalism produced",
+      "events": [
+        "recenf5Z2L86gtZsp"
+      ],
+      "id": "recLYjO6PgmN6YtEC"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/an-astrophysicist-and-a-rocket-scientist-spell-out-what-it-takes-to-be-a-woman-scientist-in-india/",
+      "publication": "Indian Express",
+      "date": "2017-06-08",
+      "headline": "An astrophysicist and a rocket scientist spell out what it takes to be a woman scientist in India",
+      "post_type": "Journalism produced",
+      "events": [
+        "recIE6UR68rM9bEWa"
+      ],
+      "id": "recLaEBJ2dSxK7Kyu"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://revistantitesis.com/",
+      "publication": "Revista Antítesis",
+      "date": "2017-01-06",
+      "events": [
+        "recvKBr0MPmJgCcII"
+      ],
+      "id": "recMB5fMKW4bsgO6s"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://infoamazonia.blogosfera.uol.com.br/2017/04/06/como-ser-alertado-sobre-enchentes-antes-que-elas-acontecam/",
+      "publication": "InfoAmazonia",
+      "date": "2017-04-06",
+      "headline": "Como Ser Alertado Sobre Enchentes Antes Que Elas Acontecam (How to be alerted about floods before they happen)",
+      "post_type": "Announcement",
+      "events": [
+        "recc8p18YJLyLlaOa"
+      ],
+      "id": "recMLDayNshX4V1D7"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.financialexpress.com/india-news/mumbai-editors-lab-event-to-highlight-gender-inequality/589281/",
+      "publication": "Financial Express- India",
+      "date": "2017-03-15",
+      "headline": "‘Mumbai Editors Lab’: The Indian Express to organise hackathon on gender inequality in Mumbai",
+      "post_type": "Story about work",
+      "events": [
+        "rec4XoCClh5SoAcq3"
+      ],
+      "id": "recMuZ8YUMjGlErt8"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.fnpi.org/es/fnpi/relator%C3%ADa-del-encuentro-iberoamericano-de-periodismo-joven-y-emprendedor",
+      "publication": "FNPI",
+      "date": "2016-11-23",
+      "headline": "Rapporteurship of the Ibero-American Meeting of Young Journalists and Entrepreneurs",
+      "post_type": "Story about work",
+      "events": [
+        "recMiCMbTbeEqnPio"
+      ],
+      "id": "recNRhYqv28R9OfcU"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://projects.wionews.com/terrormaths/index.html",
+      "publication": "WION",
+      "headline": "The Mathematics of Terror",
+      "post_type": "Journalism produced",
+      "events": [
+        "recWTSjr2YHsndHrg"
+      ],
+      "id": "recNbNatOsBitqw4K"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/HeForShe/status/873526458987184128",
+      "date": "2017-06-10",
+      "headline": "Cool initiative: #GenderAnd — Rethinking how we cover gender in mainstream media. #HeForShe",
+      "events": [
+        "rec21Kw4Kqso5PIR1"
+      ],
+      "id": "recNmuWl7d5pDuiTX"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/TEDxCEWomen/status/874134197048365056",
+      "id": "recNq7GLjg6T3Xaz9"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.the-star.co.ke/news/2016/11/18/factcheck-has-kiambu-county-doubled-its-revenue-to-sh47-billion_c1458308",
+      "publication": "The Star",
+      "headline": "FactCheck: Has Kiambu County Doubled its Revenue to Sh4.7 billion?",
+      "post_type": "Journalism produced",
+      "id": "recOLJ3WBZgGoClFP"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.icfj.org/news/icfj-knight-fellow%E2%80%99s-pakistan-project-nominated-us-digital-journalism-award",
+      "publication": "ICFJ",
+      "headline": "ICFJ Knight Fellow’s Pakistan Project Nominated for U.S. Digital Journalism Award",
+      "post_type": "Journalism produced",
+      "events": [
+        "recenf5Z2L86gtZsp"
+      ],
+      "id": "recObVQ7rMrwg5mKH"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/queremos-mas-lado-b-mexico/",
+      "publication": "SembraMedia",
+      "date": "2017-04-01",
+      "headline": "We want more Side B - Mexico",
+      "events": [
+        "recjKQDl3iXPTndVM"
+      ],
+      "id": "recOg8Mi5wruEcm4b"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.medianama.com/2017/03/223-fake-news-share/",
+      "publication": "Medianama",
+      "date": "2017-03-01",
+      "headline": "How and why is Fake News spreading?",
+      "post_type": "Journalism produced",
+      "events": [
+        "recOc9CjIH9f9Xu3Q"
+      ],
+      "id": "recOryrag4sVIYZVO"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/ahmer.rehman/videos/10154399693956732/",
+      "id": "recOzCRg19i0Rppty"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.libroshistorias.com/",
+      "publication": "Libros Historias",
+      "date": "2017-05-01",
+      "events": [
+        "recLiLskmlTNMMTTT"
+      ],
+      "id": "recP0JFFAz9rijMOb"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.medianama.com/2017/03/223-dealing-fake-news/",
+      "publication": "Medianama",
+      "date": "2017-03-01",
+      "headline": "Dealing with Fake News",
+      "post_type": "Journalism produced",
+      "events": [
+        "recOc9CjIH9f9Xu3Q"
+      ],
+      "id": "recP5KbMDHi6nrcbU"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/lifestyle/art-and-culture/madhubani-art-why-painting-is-integral-to-womens-existence-4707034/",
+      "publication": "Indian Express",
+      "date": "2017-06-16",
+      "headline": "Madhubani art: Why painting is integral to women’s existence",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec2n4hZqEHFx12ch"
+      ],
+      "id": "recPVUKaIRV55R9fQ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/en-venezuela-la-alianza-rebelde-innova-comercialmente-en-el-periodismo-independiente/",
+      "publication": "SembraMedia blog",
+      "date": "2017-01-31",
+      "events": [
+        "recQRsDAdAMmO7P6R"
+      ],
+      "id": "recPZHmj5UZChuAA7"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/education/why-is-the-government-threatened-by-womens-studies-centres-in-indian-universities/",
+      "publication": "Indian Express",
+      "date": "2017-06-15",
+      "headline": "Why is the government threatened by women’s studies centres in Indian universities?",
+      "post_type": "Journalism produced",
+      "events": [
+        "recXNmpdMMcQlF6j3"
+      ],
+      "id": "recPqDEm36ZvfEyDQ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.jagran.com/lifestyle/miscellaneous-its-a-good-idea-to-think-about-quitting-tobacco-on-world-no-tobacco-day-16109804.html?src=Search-ART-notobacco",
+      "id": "recPyYfXJeMUzFOll"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/GeoUrduDotTv/videos/1264439283605561/",
+      "events": [
+        "recKWj617ytWPdj73"
+      ],
+      "id": "recQ93weq8OgTEcVx"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.business-standard.com/article/politics/the-best-corporators-in-india-s-richest-municipality-117022300187_1.html",
+      "id": "recQFvfGmCX1dwa5Q"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://isoj.org/program-2017/#video",
+      "events": [
+        "recnmRsKDr2m1MF8j"
+      ],
+      "id": "recQW3tQ77RMNbokM"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.hindustantimes.com/static/ishratjahan/index.html",
+      "publication": "Hindustan Times",
+      "headline": "The Ishrat Jahan encounter case, explained",
+      "post_type": "Journalism produced",
+      "events": [
+        "recVPAolG5rH7lVQa"
+      ],
+      "id": "recQirNIMFxZp5rQJ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/cities/delhi/retirement-love-ambition-refuge-what-a-night-shelter-in-delhi-provides-women-4725577/",
+      "publication": "Indian Express",
+      "date": "2017-06-28",
+      "headline": "Retirement, love, ambition, refuge: What a night shelter in Delhi provides women",
+      "post_type": "Journalism produced",
+      "events": [
+        "recx7uODogbXVsDRj"
+      ],
+      "id": "recRJ0QfCuRSmN4sO"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.hindustantimes.com/india-news/as-violence-rises-five-fold-in-5-years-friendships-and-politics-turn-communal-in-up/story-9OKp0WrBDbhmQd4b40SQbK.html",
+      "id": "recRWhneK2Hwqu5ws"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://knightcenter.utexas.edu/blog/00-18281-isoj-2017-panelists-look-successes-and-limitations-innovative-video-formats-including-",
+      "publication": "Knight Center blog",
+      "date": "2017-04-25",
+      "headline": "ISOJ 2017: Panelists look at successes and limitations of innovative video formats, including Facebook Live and VR",
+      "post_type": "Story about work",
+      "id": "recRme15axANwaOnd"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.hindustantimes.com/static/du-cutoffs-map/",
+      "publication": "Hindustan Times",
+      "headline": "College Explorer",
+      "post_type": "Journalism produced",
+      "events": [
+        "recA9d1K2cda188zR"
+      ],
+      "id": "recSCrTSkLkZ0TYcV"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.journalism.co.uk/tip-of-the-day/tip-take-note-of-this-advice-to-protect-your-website-security-on-a-budget/s419/a706479/",
+      "id": "recSnsXGd6Ztce0gT"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/swagata_y/status/850235069016952832",
+      "id": "recSp7HUllsWRVOw6"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/geonews_urdu/status/710042173010477056",
+      "publication": "Geo",
+      "headline": "Geo Periscope 2",
+      "post_type": "Journalism produced",
+      "events": [
+        "reck4EwRTcyTHJywB"
+      ],
+      "id": "recT8gsn4NpPP4AjQ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.hindustantimes.com/india-news/should-we-live-in-darkness-why-much-of-power-rich-uttar-pradesh-remains-without-electricity/story-NHjoneKcoPn9g7KNB2ygzH.html",
+      "id": "recTyyizYFij97XC6"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/why-are-beauticians-in-delhi-choosing-not-to-service-clients-in-posh-salons-4703560/",
+      "publication": "Indian Express",
+      "date": "2017-06-14",
+      "headline": "Why are beauticians in Delhi choosing not to service clients in posh salons?",
+      "post_type": "Journalism produced",
+      "events": [
+        "recsUVeTKDbyugjQe"
+      ],
+      "id": "recU4BmSiKb699GDt"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://knightcenter.utexas.edu/blog/00-18383-knight-center%E2%80%99s-e-book-%E2%80%9Cinnovative-journalism-latin-america%E2%80%9D-now-also-available-englis",
+      "id": "recU9Nbr4vXejYpeS"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://revistantitesis.com/2017/03/despues-de-siete-balas-decidi-que-queria-otra-vida/",
+      "publication": "Revista Antítesis",
+      "date": "2017-03-13",
+      "post_type": "Journalism produced",
+      "events": [
+        "recvKBr0MPmJgCcII"
+      ],
+      "id": "recUI7WguI1NtFQbk"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/el-primer-ano-de-sembramedia/",
+      "publication": "SembraMedia blog",
+      "date": "2016-10-06",
+      "headline": "The first year of SembraMedia!",
+      "events": [
+        "receNrZ1zafKu5Pc1"
+      ],
+      "id": "recURpR0p1tx61Q57"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/as-violence-rises-five-fold-in-5-years-up-friendships-politics-turn-communal-87010",
+      "publication": "IndiaSpend",
+      "date": "2017-02-28",
+      "headline": "As Violence Rises Five-Fold In 5 Years, UP Friendships, Politics Turn Communal",
+      "post_type": "Journalism produced",
+      "events": [
+        "recngsYXwjBseO4hm"
+      ],
+      "id": "recUTJ0d5TyQp2EuT"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://sites.google.com/view/healthxnewsindia/home",
+      "date": "2017-04-12",
+      "headline": "Health Journalism handbook (India)",
+      "events": [
+        "recMcLuBsW6mivMIK"
+      ],
+      "id": "recUawgmSziboNQWJ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.business-standard.com/article/economy-policy/note-ban-impact-bank-deposits-exceed-withdrawals-by-nearly-5-times-116112200381_1.html",
+      "publication": "Business Standard",
+      "date": "2016-11-22",
+      "headline": "Note ban impact: Bank deposits exceed withdrawals by nearly 5 times",
+      "post_type": "Journalism produced",
+      "events": [
+        "recJugfukCZSCR0xo"
+      ],
+      "id": "recVLfkhQybby3zbl"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://fusiontables.google.com/DataSource?docid=1kvW7fvSHtI2ad7hj4nl05zCi3-cdbfqMzBe1Vzky#map:id=3",
+      "id": "recVbgLyPBjuZG1bO"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/5-reasons-why-israel-matters-to-india-and-modi-90114",
+      "id": "recVrGec1p206Enaw"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://revistantitesis.com/2017/03/arbol/",
+      "publication": "Revista Antítesis",
+      "date": "2017-03-14",
+      "post_type": "Journalism produced",
+      "events": [
+        "recvKBr0MPmJgCcII"
+      ],
+      "id": "recWAqkQm6YEiZbdx"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.fnpi.org/es/%C3%A9tica-segura/7-claves-para-saber-si-debes-persistir-o-cambiar-el-rumbo-de-tu-proyecto-period%C3%ADstico",
+      "publication": "FNPI",
+      "date": "2016-10-01",
+      "headline": "7 keys to know if you should persist or change the direction of your journalistic project - See more at: http://www.fnpi.org/es/%C3%A9tica-segura/7-claves-para-saber-si-debes-persistir-o-cambiar-el-rumbo-de-tu-proyecto-period%C3%ADstico#sthash.1bam76le.dpuf",
+      "events": [
+        "recMiCMbTbeEqnPio",
+        "recwnQNyATWqmZoYi"
+      ],
+      "id": "recWReqnYyHFJWnyi"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.hindustantimes.com/static/partition/",
+      "publication": "Hindustan Times",
+      "headline": "Partition",
+      "post_type": "Journalism produced",
+      "events": [
+        "recA9d1K2cda188zR"
+      ],
+      "id": "recXeuo7pMyTWeSui"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.onlymyhealth.com/move-over-botox-fight-off-wrinkles-with-face-yoga-1497962619",
+      "publication": "Dainik Jagran",
+      "date": "2017-06-21",
+      "headline": "Move over botox, fight off wrinkles with face yoga",
+      "post_type": "Tool",
+      "id": "recXjaKclwr38ZJQh"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://knightcenter.utexas.edu/blog/00-18246-isoj-2017-panelists-discuss-future-vr-and-360-video-technology-becomes-more-accessible",
+      "publication": "Knight Center blog",
+      "date": "2017-04-19",
+      "headline": "ISOJ 2017 panelists to discuss the future of VR and 360 video as technology becomes more accessible, affordable",
+      "post_type": "Announcement",
+      "events": [
+        "recnmRsKDr2m1MF8j"
+      ],
+      "id": "recY3ZsXyIsHndlYs"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/in-indias-richest-state-widespread-rural-misery-and-support-for-modi-53080",
+      "publication": "India Spend",
+      "date": "2016-11-23",
+      "headline": " In India’s Richest State, Widespread Rural Misery–And Support For Modi",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec8yrjJDgSRjK6Wd"
+      ],
+      "id": "recY6ttx7edixeye4"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "www.hindustantimes.com/static/olympics/race-two-countries-100m/",
+      "publication": "Hindustan Times",
+      "headline": "The 100-metre sprint where you get to choose the runners",
+      "post_type": "Journalism produced",
+      "events": [
+        "recA9d1K2cda188zR"
+      ],
+      "id": "recYIFjhRcbPiDk3A"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://inextlive.jagran.com/international-yoga-day-2017-top-ten-international-celebrities-who-do-yoga-in-their-routine-201706200015",
+      "publication": "Dainik Jagran",
+      "date": "2017-06-21",
+      "headline": "Top 10 international celebrities that do yoga everyday",
+      "post_type": "Journalism produced",
+      "id": "recZLWNrj9MU1qOWy"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.globaleditorsnetwork.org/programmes/editors-lab/mumbai-editors-lab/",
+      "publication": "Global Editors Network",
+      "date": "2017-03-23",
+      "headline": "GEN's Editor's lab Mumbai",
+      "post_type": "Announcement",
+      "events": [
+        "recN8b1oIZwyPWKIb"
+      ],
+      "id": "recZUT6pE8mG8vkLf"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/dave_janak/status/850312990796767233",
+      "id": "recZokJmyIn3WqzH2"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/event/emprendimiento-e-innovacion/",
+      "date": "2017-07-13",
+      "headline": "Emprendimiento e innovación",
+      "post_type": "Announcement",
+      "events": [
+        "recf8yFtPguGplEd0"
+      ],
+      "id": "recaWS0TkZofsBs7w"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.diarioeldia.cl/tendencias/janine-warner-pionera-en-periodismo-digital-periodistas-que-no-aprovechen-herramientas",
+      "publication": "El Dia",
+      "date": "2016-11-22",
+      "headline": "\"Journalists who do not take advantage of multimedia tools are at greater risk of losing their jobs\"",
+      "post_type": "Story about work",
+      "events": [
+        "recpGYdNuXzlQxlcw"
+      ],
+      "id": "recb0hmJmOiLLGNLA"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.onlymyhealth.com/dengue-cases-are-increasing-year-by-year-in-hindi-1494841507",
+      "publication": "Only my health: Dainik Jagran",
+      "date": "2017-05-16",
+      "headline": "हो जाएं सतर्क !! साल दर साल बढ़ रहा है डेंगू का प्रकोप (Beware! Dengue cases on a rise)",
+      "post_type": "Journalism produced",
+      "events": [
+        "recLncTLEgdwQ0Xrb"
+      ],
+      "id": "recb8JGzFdaRrPOPf"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/genderand-caste-class-higher-education-madhubani-art-and-more-4709045/",
+      "publication": "Indian Express",
+      "date": "2017-06-17",
+      "headline": "#GenderAnd: Caste, Class, Higher Education, Madhubani art and more",
+      "post_type": "Announcement",
+      "events": [
+        "recZzrjjtEc51tpyq"
+      ],
+      "id": "recbCupZtTCOruS8R"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.mujeresperiodistaschile.com/xxii-congreso-ammpe",
+      "date": "2016-11-24",
+      "events": [
+        "recyviKOSRYlBRRq8"
+      ],
+      "id": "recbOccSGuDQRQb1N"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.ciudadjuarez-es.periodistasenriesgo.com/",
+      "publication": "Periodistas en Riesgo",
+      "headline": "Taller Binacional en Ciudad Juarez",
+      "post_type": "Journalism produced",
+      "events": [
+        "recmBf1wkGUg7SbCv"
+      ],
+      "id": "reccKyaJPWdNCrout"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/sports/sport-others/could-the-future-of-sports-coaching-in-india-ever-be-female/",
+      "publication": "Indian Express",
+      "date": "2017-06-09",
+      "headline": "Could the future of sports coaching in India ever be female?",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec8uAVbcNu76fgHB"
+      ],
+      "id": "reccRbwnhO9Dyc5B7"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/IndiaSpend/videos/1283066795109690/?hc_ref=NEWSFEED",
+      "events": [
+        "recPMhwgrqCkzxXz1"
+      ],
+      "id": "reccXhT7PxYP7idvV"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.icfj.org/blogs/12-must-read-cybersecurity-tips-newsrooms-across-globe",
+      "headline": "12 Must-Read Cybersecurity Tips for Newsrooms Across the Globe",
+      "events": [
+        "recpzRaE2ZQLjGUGa"
+      ],
+      "id": "recceKVAk6FpQhqyz"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.hindustantimes.com/static/the-young-militants-of-kashmir/index.html",
+      "publication": "Hindustan Times",
+      "headline": "KASHMIR'S DISTURBING NEW REALITY",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec8sVGhrNsZYT7NG"
+      ],
+      "id": "recctk9lflqKAjrH2"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.hindustantimes.com/static/fgm-indias-dark-secret/",
+      "publication": "Hindustan Times",
+      "headline": "INDIA'S DARK SECRET",
+      "post_type": "Journalism produced",
+      "events": [
+        "recUJ4OLPFwZVSfRj"
+      ],
+      "id": "recdN5qQfOFhJ7trR"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.youtube.com/watch?v=1LOPnclLdW0",
+      "date": "2017-04-26",
+      "headline": "ISOJ 2017 - News startups and new business models - Janine Warner",
+      "id": "recdRh1o0zvCmCxY8"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/narcodata/",
+      "date": "2017-04-01",
+      "events": [
+        "rec3bVoYdDzXktHqK"
+      ],
+      "id": "recdjzhFzSkEI1Li3"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.globaleditorsnetwork.org/programmes/editors-lab/delhi-editors-lab/",
+      "date": "2017-04-21",
+      "post_type": "Story about work",
+      "events": [
+        "reccJHDvHSeiKQb08"
+      ],
+      "id": "receMBBKkQNsCKuu5"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/why-power-rich-up-remains-in-thrall-of-a-great-darkness-59084",
+      "id": "receVs3kzE0ZzF5M2"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://ijnet.org/en/blog/icfj-knight-roundup-pakistan-school-shooting-story-nominated-us-award",
+      "publication": "IJNet",
+      "headline": "ICFJ Knight roundup: Pakistan school shooting story nominated for U.S. award",
+      "post_type": "Journalism produced",
+      "events": [
+        "recenf5Z2L86gtZsp"
+      ],
+      "id": "recepjzUpE0A4gWuR"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/taking-charge-of-mainstream-theatre/",
+      "publication": "Indian Express",
+      "date": "2017-06-30",
+      "headline": "Taking charge of mainstream theatre",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec2EIXb3sG1rHsYm"
+      ],
+      "id": "recev2DqIye4cWP5t"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/why-power-rich-up-remains-in-thrall-of-a-great-darkness-59084",
+      "publication": "IndiaSpend",
+      "date": "2013-03-07",
+      "headline": "Why Power-Rich UP Remains In Thrall Of A Great Darkness",
+      "post_type": "Journalism produced",
+      "events": [
+        "reclF39RNfmsVIUqa"
+      ],
+      "id": "recfBM54lJXRz7lgl"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/GeoUrduDotTv/videos/961746617208164/",
+      "publication": "Geo",
+      "headline": "Geo Periscope 3",
+      "post_type": "Journalism produced",
+      "events": [
+        "reck4EwRTcyTHJywB"
+      ],
+      "id": "recfRKCuv2hKCqJ5b"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/from-road-rage-to-sports-rage-and-more-masculinities-in-modern-india/",
+      "publication": "Indian Express",
+      "date": "2017-06-29",
+      "headline": "From road rage to sports rage and more — masculinities in modern India",
+      "post_type": "Journalism produced",
+      "events": [
+        "recQovw2B4zzbOdmE"
+      ],
+      "id": "recfk4iegMdbaYlOt"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/hindustantimes/videos/10154068055498580/",
+      "publication": "Hindustan Times",
+      "headline": "Our senior journalist Rezaul Hasan Laskar gives a first-hand account of his visit to Balochistan in 2013.",
+      "post_type": "Journalism produced",
+      "events": [
+        "recTjXaG0PVTb9f1t"
+      ],
+      "id": "recfszStgfNsPfJWu"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/how-the-poorest-escaped-notebandi-they-dont-have-money-25826",
+      "publication": "IndiaSpend",
+      "date": "2016-11-25",
+      "headline": " How The Poorest Escaped #NoteBandi: They Don’t Have Money",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec8yrjJDgSRjK6Wd"
+      ],
+      "id": "recg8KNYf7Wbe2y9p"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/discrimination-courage-resilience-what-being-a-young-dalit-women-in-india-means-today/",
+      "publication": "Indian Express",
+      "date": "2017-06-21",
+      "headline": "Discrimination, courage, resilience – What being a young Dalit women in India means today",
+      "post_type": "Journalism produced",
+      "events": [
+        "recu5Bc13jc1A9kTZ"
+      ],
+      "id": "recgSKgP9yrABzuEn"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/GeoUrduDotTv/videos/1016627185053440/",
+      "publication": "Geo",
+      "headline": "We're live again from the studio with the 6pm headlines!!",
+      "post_type": "Journalism produced",
+      "events": [
+        "recE1qHkhVTkicy8u"
+      ],
+      "id": "recglBc76q63oGXaO"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.gensummit2017.org/sessions/editors-lab-ceremony/",
+      "id": "recgoZfKf7VUu4RQB"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.fnpi.org/es/fnpi/5-herramientas-b%C3%A1sicas-para-periodistas-que-incursionan-en-el-mundo-digital",
+      "id": "rech8y9EhJRRgU02s"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/99-38-indians-now-live-in-areas-under-cow-protection-laws-42787",
+      "id": "rechVtsawzlsDGkTd"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/business/meet-kalpana-saroj-dalit-entrepreneur-who-broke-corporate-hegemony/",
+      "publication": "Indian Express",
+      "date": "2017-06-12",
+      "headline": "Meet Kalpana Saroj, Dalit entrepreneur who broke corporate hegemony",
+      "post_type": "Journalism produced",
+      "events": [
+        "recJ0YDC9cuBlHmji"
+      ],
+      "id": "rechWLD3H89zbAWxZ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/indianexpress/photos/a.10150656002863826.421941.163648403825/10155442005728826/?type=1&theater",
+      "publication": "Indian Express",
+      "date": "2017-06-01",
+      "headline": "#GenderAnd — Rethinking how we cover gender in mainstream media. Read about our new series. You can also help us find more such stories using #GenderAnd in your conversations. bit.ly/GenderAnd",
+      "post_type": "Announcement",
+      "events": [
+        "recAYZc0i8mwKzuKD"
+      ],
+      "id": "rechbbwWzwL1hUOEn"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.youtube.com/watch?v=jpye2J7vfnc",
+      "date": "2017-04-26",
+      "headline": "ISOJ 2017 - Video everywhere Live, VR, and 360 - Panel",
+      "events": [
+        "recnmRsKDr2m1MF8j"
+      ],
+      "id": "reci1xWcsmZ2f4gSn"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/about/genderand/",
+      "publication": "Indian Express",
+      "date": "2017-06-01",
+      "headline": "GENDERAND",
+      "post_type": "Journalism produced",
+      "events": [
+        "recXeFySpZncDHN9P"
+      ],
+      "id": "reci6LDXltFNjZdPE"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/CuomoFoundation/status/876752589832028161",
+      "id": "reciLjnIMFvaN8Nzx"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/business/why-higher-education-doesnt-ensure-better-jobs-for-women-in-india/",
+      "publication": "Indian Express",
+      "date": "2017-06-05",
+      "headline": "Why higher education doesn’t ensure better jobs for women in India",
+      "post_type": "Journalism produced",
+      "events": [
+        "recmG9NYZuVWqgISy"
+      ],
+      "id": "reciMSYZzGwafFmbF"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.hindustantimes.com/mumbai-news/brihanmumbai-municipal-corporation-polls-who-are-the-best-corporators-in-india-s-richest-municipality/story-lkdiBO7DzBKB0II29fIYBM.html",
+      "id": "reciP0ZBucxUGytEY"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://revistantitesis.com/2017/01/venezuela-pais-inexplicable-2/",
+      "publication": "Revista Antítesis",
+      "date": "2017-01-06",
+      "post_type": "Journalism produced",
+      "events": [
+        "recvKBr0MPmJgCcII"
+      ],
+      "id": "reciTraYED2FgfFhG"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.puroperiodismo.cl/?p=27897",
+      "publication": "PurePeriodismo.cl",
+      "date": "2017-01-25",
+      "headline": "The 2016 Balance of Puroperiodismo",
+      "post_type": "Story about work",
+      "events": [
+        "rechLF5UrjgTTUSUW"
+      ],
+      "id": "reciV7XkkXBPrDeKX"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/ashishrukhaiyar/status/850239529038381060",
+      "id": "recidsvAa9kSJ3PvP"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://infoamazonia.org/pt/blog/cinco-anos-infoamazonia-aprendemos-queremos-ir/",
+      "id": "recjAczVkwHX33Iv6"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.globaleditorsnetwork.org/programmes/editors-lab/mic-editors-lab/",
+      "events": [
+        "rec41LZjcxSSGhouL"
+      ],
+      "id": "recjO0YcNNXYDod3Z"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/GeoUrduDotTv/videos/1016704011712424/",
+      "publication": "Geo",
+      "headline": "Geo News Urdu was live. June 15 ·  We're live from the studio!",
+      "post_type": "Journalism produced",
+      "events": [
+        "reckhjkmuKoI7yz9I"
+      ],
+      "id": "recjQK8WVWe6Y7YR6"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://soundcloud.com/frentelatino/periodistas-de-la-frontera-en-mexico-hablan-sobre-retos-de-seguridad",
+      "publication": "Frente Latino",
+      "headline": "Periodistas de la Frontera en México hablan sobre retos de seguridad by Frente Latino",
+      "post_type": "Journalism produced",
+      "id": "recjUra0qIWFJLaAJ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://reutersinstitute.politics.ox.ac.uk/sites/default/files/Indian%20Newspapers%27%20Digital%20Transition.pdf",
+      "publication": "The Reuters Institute for the Study of Journalism at Oxford ",
+      "date": "2016-12-08",
+      "headline": "Indian Newspapers’ Digital Transition: Dainik Jagran, Hindustan Times, and Malayala Manorama",
+      "post_type": "Journalism produced",
+      "events": [
+        "reciXeoNOV4TnkSb8"
+      ],
+      "id": "reck0ZJLfIxc8ouuL"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.knightcenter.utexas.edu/es/blog/00-18314-sembramedia-revela-crecimiento-de-medios-digitales-en-america-latina-pero-todavia-encu",
+      "publication": "Knight Center blog",
+      "date": "2017-04-27",
+      "headline": "SembraMedia reveals digital media growth in Latin America, but still faces challenges to win",
+      "post_type": "Story about work",
+      "events": [
+        "recztFk176uLpmRfT"
+      ],
+      "id": "reckKMHIEtDfhxmfv"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/events/1816360395271244/",
+      "id": "reclFMyDdA2UbX4D5"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://urdu.geo.tv/assets/special/sbp/sbp1.html",
+      "id": "reclGymhlCyVUPQJt"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://fundacionperiodismo.org/fundacion/all_notice/588/",
+      "id": "reclIJoVeEtojVEA5"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/IndiaSpend/videos/1144674795615558/",
+      "publication": "IndiaSpend",
+      "headline": "India’s air quality was among the world’s worst this Diwali. ",
+      "post_type": "Journalism produced",
+      "events": [
+        "reczkc2r4zFGs1d4B",
+        "recJugfukCZSCR0xo"
+      ],
+      "id": "reclN11BAwQyUO8Re"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.moneycontrol.com/news/world/theresa-may-set-to-form-the-government-2300415.html",
+      "id": "reclOK1ccL6F2mq6d"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/as-violence-rises-five-fold-in-5-years-up-friendships-politics-turn-communal-87010",
+      "id": "recliLNRJ6Hghgwhn"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/IndiaSpend/videos/1153945674688470/",
+      "publication": "IndiaSpend",
+      "date": "2016-11-11",
+      "headline": "On this week's datafix with IndiaSpend, we discuss the effects of demonetization of Rs 500 and Rs 1000 notes. Will the move lead to a reduction of black money? Which businesses will be affected most? Govind Ethiraj, founder of IndiaSpend, journalist, and founder-editor of Bloomberg TV India, discusses the implications for the Indian economy.",
+      "post_type": "Journalism produced",
+      "events": [
+        "recX9L5N0h7hjMfjz",
+        "recJugfukCZSCR0xo"
+      ],
+      "id": "reclmlgN0ZM6TqtL6"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://isoj.org/program-2017/#startup",
+      "events": [
+        "rec1JGlGdPxWsAWY5"
+      ],
+      "id": "recmdelb69tWdCpfN"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.geo.tv/latest/113676",
+      "publication": "Geo",
+      "headline": "Virtual tour: Manghopir—the crocodile shrine",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec7wrr151RpB4z01"
+      ],
+      "id": "recmeebgeTazI9jhM"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "Headline",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.onlymyhealth.com/what-happens-when-you-go-to-the-doctor-in-hindi-1491482545",
+      "headline": "What happens when you go to the doctor",
+      "id": "recmm1VmSMSG1Fba7"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/gender-and-rethinking-how-we-cover-gender-in-mainstream-media-4683902/",
+      "publication": "Indian Express",
+      "date": "2017-06-01",
+      "headline": "#GenderAnd — Rethinking how we cover gender in mainstream media",
+      "post_type": "Announcement",
+      "events": [
+        "rec21Kw4Kqso5PIR1"
+      ],
+      "id": "recmp5yiClCMYWL4u"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.jagran.com/miscellaneous/7-astonishing-facts-about-tobacco-use-in-india-16108968.html",
+      "publication": "Jagran.com",
+      "date": "2017-05-29",
+      "headline": "आपको हैरान कर देगी तंबाकू से जुड़ी ये 7 बातें/ 7 astonishing facts about tobacco use in India ",
+      "post_type": "Journalism produced",
+      "events": [
+        "recmGKItg4NinBMrA"
+      ],
+      "id": "recn9y5KM311VTG0g"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.hindustantimes.com/static/roofless-in-delhi/",
+      "publication": "Hindustan Times",
+      "headline": "Delhi's homeless: Nameless, forsaken even in their death",
+      "post_type": "Journalism produced",
+      "events": [
+        "recl85E0XP6bwqQL6"
+      ],
+      "id": "recnEIUrHXsb0iYw8"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "www.hindustantimes.com/static/olympics/every-country-fastest-man-in-one-race-100m/",
+      "publication": "Hindustan Times",
+      "headline": "Every country's fastest man in one race",
+      "post_type": "Journalism produced",
+      "events": [
+        "recA9d1K2cda188zR"
+      ],
+      "id": "recnHdS7lBnXTpJan"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/business/why-the-gender-paygap-in-corporate-india-could-take-149-years-to-fill-4722479/",
+      "publication": "Indian Express",
+      "date": "2017-06-26",
+      "headline": "Why the gender paygap in corporate India could take 149 years to fill",
+      "post_type": "Journalism produced",
+      "events": [
+        "recPK7HRo6R11HYKt"
+      ],
+      "id": "recnk2Ns7b5c2Em8K"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://gijn.org/2017/07/03/how-to-protect-your-website-on-the-cheap/",
+      "id": "recnnTOr0lCa01FBG"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.jagran.com/spiritual/religion-know-what-is-surya-namaskar-and-its-benefits-16231255.html",
+      "publication": "Dainik Jagran",
+      "date": "2017-06-21",
+      "headline": "What is surya namaskar and its benefits?",
+      "post_type": "Journalism produced",
+      "id": "recoTS9ABg1YTqloH"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://revistantitesis.com/2017/03/conlacordilleraamoratada/",
+      "publication": "Revista Antítesis",
+      "date": "2017-03-13",
+      "post_type": "Journalism produced",
+      "events": [
+        "recvKBr0MPmJgCcII"
+      ],
+      "id": "reconAVLVvZAw1Bog"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://knightcenter.utexas.edu/blog/00-18315-sembramedia-reveals-digital-media-growth-latin-america-still-faces-challenges-must-be-",
+      "events": [
+        "recLLm5ww9js0QSzG"
+      ],
+      "id": "recosVv8cYMxL2JTM"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.puroperiodismo.cl/?p=27840",
+      "publication": "PurePeriodismo.cl",
+      "date": "2016-12-29",
+      "headline": "Janine Warner: “I don’t think any journalist can afford to be completely ignorant about the business model”",
+      "post_type": "Story about work",
+      "events": [
+        "rec6b8e2JjeQ4u4WU"
+      ],
+      "id": "recp1nz9Hira1IAAI"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.medianama.com/2017/03/223-what-is-fake-news/",
+      "publication": "Medianama",
+      "date": "2017-03-01",
+      "headline": "What is Fake News",
+      "post_type": "Journalism produced",
+      "events": [
+        "recOc9CjIH9f9Xu3Q"
+      ],
+      "id": "recpRSNTz9tsJWabT"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.archivo.fnpi.org/noticias/noticia/articulo/seminario-web-periodismo-emprendedor-como-monetizar-proyectos-de-contenidos-para-la-web/",
+      "publication": "FNPI",
+      "date": "2016-12-07",
+      "headline": "Seminar web 'Entrepreneurial Journalism: how to monetize content projects for the web'",
+      "post_type": "Announcement",
+      "events": [
+        "reciynSUDkgJzmIha"
+      ],
+      "id": "recpZapBrZBdIu5FI"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.onlymyhealth.com/face-yoga-can-permanently-cure-wrinkles-in-hindi-1497966719",
+      "publication": "Dainik Jagran",
+      "date": "2017-06-21",
+      "headline": "Yoga can permanently cure wrinkles (Hindi)",
+      "post_type": "Journalism produced",
+      "id": "recpbZ8PK5Eevhi73"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.youtube.com/watch?v=1LOPnclLdW0",
+      "date": "2017-04-26",
+      "headline": "ISOJ 2017 - News startups and new business models - Janine Warner",
+      "events": [
+        "rec1JGlGdPxWsAWY5"
+      ],
+      "id": "recphgSG0zMMl0tbd"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.jagran.com/lifestyle/miscellaneous-solve-this-quiz-based-on-no-tobacco-day-16113952.html?src=Search-ART-notobacco",
+      "id": "recqYPfZJIo7yBZ7P"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/jayalalithaas-legacy-industrial-social-crime-rankings-among-indias-best-21065",
+      "publication": "IndiaSpend",
+      "date": "2016-12-06",
+      "headline": "Jayalalithaa's Legacy: Industrial, Social, Crime Rankings Among India's Best",
+      "post_type": "Journalism produced",
+      "events": [
+        "recOnhvUFD3lh3huF"
+      ],
+      "id": "recrCcWAJ27tw18IY"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.eluniversal.com.mx/articulo/estados/2017/03/1/entrenan-periodistas-de-eu-y-mexico-en-coberturas-de-riesgo",
+      "id": "recrFvBaJgZcZjDsM"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/genderand-the-nation-on-sex-education-children-should-be-taught-sports-to-contain-their-super-energy-genderand/",
+      "publication": "Indian Express",
+      "date": "2017-06-06",
+      "headline": "#GenderAnd The Nation: On sex education: ‘Children should be taught sports to contain their super energy’",
+      "post_type": "Journalism produced",
+      "events": [
+        "recnJvin7YHi6sK1V"
+      ],
+      "id": "recrMUd58sqIJotxx"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.indiaspend.com/cover-story/pihanis-story-why-promises-of-ups-politicians-rarely-changed-over-15-years-18207",
+      "id": "recrmLwiheM6q4zqP"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://mmca17.splashthat.com/",
+      "events": [
+        "recW01J92Bi0etAMa"
+      ],
+      "id": "recs0ybNjikyOFfgr"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://revistantitesis.com/2017/03/rock-y-goles-sin-destino-2/",
+      "publication": "Revista Antítesis",
+      "date": "2017-03-14",
+      "post_type": "Journalism produced",
+      "events": [
+        "recvKBr0MPmJgCcII"
+      ],
+      "id": "recsAefrYA9821YJA"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.periscope.tv/geonews_urdu/1BRJjavlgNRGw",
+      "publication": "Geo",
+      "headline": "Geo Periscope 6",
+      "post_type": "Journalism produced",
+      "events": [
+        "reck4EwRTcyTHJywB"
+      ],
+      "id": "recsAwvZdr4Zb7VjR"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.dawn.com/in-depth/spam-sms/#/",
+      "date": "2017-05-24",
+      "headline": "YOUR NUMBER HAS A PRICE TAG - How the SMS spam racket thrives in Pakistan",
+      "post_type": "Journalism produced",
+      "events": [
+        "recZkVVg0Dtvyjrb3"
+      ],
+      "id": "recsKkfJNdTFtn9sz"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://labs1.tribune.com.pk/inside-machar-colony/",
+      "publication": "Express Tribune",
+      "headline": "Inside Machar Colony",
+      "post_type": "Story about work",
+      "events": [
+        "recPFgurq9VhORc9Z"
+      ],
+      "id": "recsY5WlgOMN6xqXF"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.journalism.co.uk/tip-of-the-day/tip-follow-this-instructions-for-recording-violent-protest-without-getting-hurt-/s419/a702216/",
+      "id": "recshRPlnk0cX6pGW"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.youtube.com/watch?v=J_0Gr8369ZM",
+      "date": "2017-04-26",
+      "headline": "ISOJ 2017 - News startups and new business models - Panel",
+      "events": [
+        "rec1JGlGdPxWsAWY5"
+      ],
+      "id": "recsirqI3CKrNzKkY"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.archivo.fnpi.org/noticias/noticia/articulo/con-una-invitacion-a-atreverse-a-innovar-comenzo-el-encuentro-de-periodismo-joven-y-emprendedor/",
+      "publication": "FNPI",
+      "date": "2016-10-25",
+      "headline": "With an invitation to dare to innovate, began the Encounter of Young Journalism and Entrepreneur",
+      "post_type": "Story about work",
+      "events": [
+        "recMiCMbTbeEqnPio"
+      ],
+      "id": "recsjt5lc0OQgMzJq"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.fnpi.org/es/fnpi/actividad/el-otro-encuentro-latinoamericano-anual-de-periodismo-emprendedor-e-innovador",
+      "date": "2017-07-13",
+      "headline": "El Otro: Encuentro latinoamericano anual de periodismo emprendedor e innovador - See more at: http://www.fnpi.org/es/fnpi/actividad/el-otro-encuentro-latinoamericano-anual-de-periodismo-emprendedor-e-innovador#sthash.QBz13KWH.dpuf",
+      "post_type": "Announcement",
+      "events": [
+        "recf8yFtPguGplEd0"
+      ],
+      "id": "rectT9bNf20wCDwSD"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.onlymyhealth.com/fitness-at-work-easy-yoga-poses-you-can-do-while-standing-or-sitting-1497963657",
+      "id": "rectnFTx2Dci7Mnsj"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "id"
+    ],
+    "attrs": {
+      "asset": "www.onlymyhealth.com/practice-these-yoga-poses-right-at-your-seat-and-stay-healthy-in-hindi-1497967221",
+      "publication": "Dainik Jagran",
+      "date": "2017-06-21",
+      "headline": "Try these yoga poses right at your seat",
+      "post_type": "Journalism produced",
+      "id": "recuTB5hbzoe3WgD0"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.niemanlab.org/2017/04/with-push-small-publishers-have-a-cheaper-quicker-way-to-develop-their-own-mobile-apps/",
+      "publication": "Nieman Lab",
+      "date": "2017-04-07",
+      "headline": "With Push, small publishers have a cheaper, quicker way to develop their own mobile apps",
+      "post_type": "Story about work",
+      "events": [
+        "rec6lvB5OuFWmX8ZK"
+      ],
+      "id": "recujKnkAvmlU3OZT"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.facebook.com/moneycontrolFB/videos/1514684138542303/",
+      "events": [
+        "rec1aCzYjr1JsUb6U"
+      ],
+      "id": "recv2gYEENTFC2oM7"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/faro-caso-estudio/",
+      "date": "2017-04-01",
+      "events": [
+        "recaSNJ5RvCaq9LG0"
+      ],
+      "id": "recvAvZtFiWpspAvQ"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.geo.tv/news360/360-The-sights-and-sounds-of-Karachi-Burnes-Road",
+      "publication": "Geo TV",
+      "date": "2017-03-31",
+      "headline": "360: The sights and sounds of Karachi's Burnes Road",
+      "post_type": "Journalism produced",
+      "events": [
+        "recumyVmoDfzaEFh0"
+      ],
+      "id": "recvTM6m4WhYTXJUL"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.elmanana.com/realizanprimertallerperiodisticobinacional-3307252.html",
+      "publication": "El Manana",
+      "headline": "Realizan primer taller periodístico binacional",
+      "post_type": "Journalism produced",
+      "events": [
+        "rec2urhHveGtZoQ3k"
+      ],
+      "id": "recwQvYHXdHiLDFfe"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/three-lead-comic-artists-tear-apart-the-bro-code-in-indian-comic-scene-4685432/",
+      "publication": "Indian Express",
+      "date": "2017-06-02",
+      "headline": "Three lead comic artists tear apart the ‘bro-code’ in Indian comic scene",
+      "post_type": "Journalism produced",
+      "events": [
+        "recPeAj2ffm8hYWPI"
+      ],
+      "id": "recwdxg8nN4qfyHpc"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://journalismcourses.org/PE2016.html",
+      "events": [
+        "recd2DW0PHO5xZ6vW"
+      ],
+      "id": "recx52R7p6V9cbhF9"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/otra-oportunidad-el-mooc-de-periodismo-emprendedor-que-me-cambio-la-vida/",
+      "publication": "SembraMedia blog",
+      "date": "2016-10-12",
+      "headline": "Another opportunity: The MOOC of Entrepreneurial Journalism that changed my life",
+      "events": [
+        "recHfYKLn6KF4ReSV"
+      ],
+      "id": "recxJYXOoYUOhzxS3"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://projects.hindustantimes.com/ashleymadison",
+      "publication": "Hindustan Times",
+      "headline": "Indians spent ₹2.4 crore on Ashley Madison since 2008",
+      "post_type": "Journalism produced",
+      "events": [
+        "recyPUAAvd9MG9x0V"
+      ],
+      "id": "recxOdmsG0HuokWF9"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/jencyjac/status/850225439440162816",
+      "id": "recxSgrzrNKhN9drs"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/chequeado-caso-estudio/",
+      "date": "2017-04-01",
+      "events": [
+        "recla0OP5sxoJwWph"
+      ],
+      "id": "recy1QLzKnjMqferM"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://indianexpress.com/article/india/what-is-the-connection-between-women-land-and-the-sea-in-tamil-nadu-4692821/",
+      "publication": "Indian Express",
+      "date": "2017-06-07",
+      "headline": "What is the connection between women, land and the sea in Tamil Nadu?",
+      "post_type": "Journalism produced",
+      "events": [
+        "recuCJDrgIpbTOdvL"
+      ],
+      "id": "recyRZJURPZBumn4P"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/las-cinco-claves-del-exito-para-tu-emprendimiento-periodistico-digital/",
+      "publication": "SembraMedia blog",
+      "date": "2017-01-12",
+      "headline": "The five keys to success for journalistic endeavors",
+      "events": [
+        "recOWhfRUtv4sZT6p"
+      ],
+      "id": "recyblPzYANwd7UvG"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.sembramedia.org/primer-encuentro-sembramedia-y-news-lab-en-google-un-resumen/",
+      "publication": "SembraMedia blog",
+      "date": "2016-12-19",
+      "headline": "First SembraMedia Meeting and News Lab on Google, a summary",
+      "events": [
+        "recTGlIrGFdm2Hgv4"
+      ],
+      "id": "recyr1PHxU5hrDhzf"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://twitter.com/DFondationCuomo/status/876752590104612866",
+      "id": "reczEaCZOJDjVKrOs"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "date",
+      "Headline",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "https://www.youtube.com/watch?v=RxnKz4l4DGA",
+      "date": "2017-04-26",
+      "headline": "ISOJ 2017 - Video everywhere - Live, VR, and 360 - Shaheryar Popalzai",
+      "events": [
+        "recnmRsKDr2m1MF8j"
+      ],
+      "id": "reczMXIF8cXRvf0p4"
+    }
+  },
+  {
+    "column_keys": [
+      "Asset",
+      "publication",
+      "date",
+      "Headline",
+      "Post Type",
+      "events",
+      "id"
+    ],
+    "attrs": {
+      "asset": "http://www.archivo.fnpi.org/noticias/noticia/articulo/estas-son-las-10-conclusiones-que-dejo-el-encuentro-iberoamericano-de-periodismo-joven-y-emprendedo/",
+      "publication": "FNPI",
+      "date": "2016-10-27",
+      "headline": "These are the 10 conclusions left by the Ibero-American Meeting of Young Journalists and Entrepreneurs",
+      "post_type": "Story about work",
+      "events": [
+        "recMiCMbTbeEqnPio"
+      ],
+      "id": "reczzagnqrnliHWor"
+    }
+  }
+]
